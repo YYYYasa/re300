@@ -1,0 +1,66 @@
+FBX version: 7400
+COMBAT_FBX_BOUNDS SM_Arena_2_2.fbx (-17.7, -17.7, -0.4) (29.8, 33.4, 2.6)
+COMBAT_FBX_DEBUG SM_Arena_2_2 matrix <Matrix 4x4 (0.0100, -0.0000, 0.0000, 0.0000)
+            (0.0000,  0.0100, 0.0000, 0.0000)
+            (0.0000,  0.0000, 0.0100, 0.0000)
+            (0.0000,  0.0000, 0.0000, 1.0000)> local_bounds (bpy.data.objects['SM_Arena_2_2'].bound_box[0], bpy.data.objects['SM_Arena_2_2'].bound_box[1])
+FBX version: 7400
+COMBAT_FBX_BOUNDS SM_Arena_3_2.fbx (17.3, -24.9, -0.5) (69.8, 31.0, 5.4)
+FBX version: 7400
+COMBAT_FBX_BOUNDS SM_Arena_2_3.fbx (-22.6, 17.3, -0.4) (31.0, 69.8, 4.2)
+FBX version: 7400
+COMBAT_FBX_BOUNDS SM_Arena_2_1.fbx (-21.8, -54.9, -1.3) (28.6, -8.5, 4.1)
+FBX version: 7400
+COMBAT_FBX_BOUNDS SM_Arena_1_2.fbx (-53.0, -21.8, -1.1) (-8.3, 28.3, 5.4)
+FBX version: 7400
+COMBAT_FBX_BOUNDS SM_Arena_1_1.fbx (-81.5, -78.1, -12.9) (22.3, 1.9, 8.3)
+COMBAT_FBX_GROUND (0, 0) [(20.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (0, -500) [(20.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (0, -1000) [(19.9, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (500, -1000) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2'), (0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1000, -1000) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2'), (0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1500, -1000) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2'), (0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (2000, -1000) [(10.2, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2'), (10.2, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (2200, -1500) [(0.0, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (2200, -2000) []
+COMBAT_FBX_GROUND (500, 1400) [(42.8, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1000, 1400) [(20.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (-500, 1400) [(124.5, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (-1500, 1000) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1500, -1500) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2'), (0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1700, -1500) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1900, -1500) [(0.0, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (2100, -1500) [(0.0, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (500, -1500) [(75.0, 'SM_Arena_2_1.fbx', 'SM_Arena_2_1'), (20.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (500, -1250) [(147.0, 'SM_Arena_2_1.fbx', 'SM_Arena_2_1'), (20.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (500, -750) [(127.5, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (500, -500) [(11.3, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (750, -1500) [(76.2, 'SM_Arena_2_1.fbx', 'SM_Arena_2_1'), (17.3, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (750, -1250) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (750, -1000) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (750, -750) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (750, -500) [(168.5, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1000, -1500) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1000, -1250) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1000, -750) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1000, -500) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1250, -1500) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1250, -1250) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1250, -1000) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1250, -750) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1250, -500) [(29.8, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1500, -1250) [(0.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1500, -750) [(69.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1500, -500) [(20.0, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2')]
+COMBAT_FBX_GROUND (1750, -1500) [(0.0, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (1750, -1250) [(0.0, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (1750, -1000) [(141.3, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2'), (7.4, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (1750, -750) [(128.9, 'SM_Arena_2_2.fbx', 'SM_Arena_2_2'), (20.0, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (1750, -500) [(20.0, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (2000, -1500) [(0.0, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (2000, -1250) [(0.0, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (2000, -750) [(12.7, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+COMBAT_FBX_GROUND (2000, -500) [(15.2, 'SM_Arena_3_2.fbx', 'SM_Arena_3_2')]
+Blender 4.3.1 (hash 33d812126174 built 2024-12-10 10:08:19)
+
+Blender quit

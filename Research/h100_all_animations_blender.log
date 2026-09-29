@@ -1,0 +1,93 @@
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_Idle.fbx'
+export finished in 0.2496 sec.
+HERO_ANIMATION 100 Idle bat_idle 31 1669932
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_Run.fbx'
+export finished in 0.2273 sec.
+HERO_ANIMATION 100 Run bat_run 25 1560556
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_Attack.fbx'
+export finished in 0.2897 sec.
+HERO_ANIMATION 100 Attack single_attack_attcom_1 46 1824396
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_bat_idle.fbx'
+export finished in 0.2470 sec.
+HERO_ANIMATION 100 bat_idle bat_idle 31 1669932
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_bat_actionidle.fbx'
+export finished in 0.2753 sec.
+HERO_ANIMATION 100 bat_actionidle bat_actionidle 31 1669932
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_bat_specialidle.fbx'
+export finished in 0.3908 sec.
+HERO_ANIMATION 100 bat_specialidle bat_specialidle 79 2259948
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_bat_run.fbx'
+export finished in 0.2332 sec.
+HERO_ANIMATION 100 bat_run bat_run 25 1560556
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_dead.fbx'
+export finished in 0.2850 sec.
+HERO_ANIMATION 100 dead dead 44 1800060
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_idle.fbx'
+export finished in 0.2447 sec.
+HERO_ANIMATION 100 single_idle single_idle 31 1669932
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_actionidle.fbx'
+export finished in 0.2711 sec.
+HERO_ANIMATION 100 single_actionidle single_actionidle 41 1746124
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_specialidle.fbx'
+export finished in 0.3824 sec.
+HERO_ANIMATION 100 single_specialidle single_specialidle 79 2259948
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_run.fbx'
+export finished in 0.2302 sec.
+HERO_ANIMATION 100 single_run single_run 21 1488236
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_attack_attcom_1.fbx'
+export finished in 0.2886 sec.
+HERO_ANIMATION 100 single_attack_attcom_1 single_attack_attcom_1 46 1824396
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_attack_attcom_2.fbx'
+export finished in 0.3033 sec.
+HERO_ANIMATION 100 single_attack_attcom_2 single_attack_attcom_2 46 1823196
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_skill_01.fbx'
+export finished in 0.2943 sec.
+HERO_ANIMATION 100 single_skill_01 single_skill_01 46 1824396
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_skill_02.fbx'
+export finished in 0.2271 sec.
+HERO_ANIMATION 100 single_skill_02 single_skill_02 21 1488236
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_skill_03.fbx'
+export finished in 0.2928 sec.
+HERO_ANIMATION 100 single_skill_03 single_skill_03 46 1823196
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_skill_04.fbx'
+export finished in 0.3010 sec.
+HERO_ANIMATION 100 single_skill_04 single_skill_04 46 1828012
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_touzhi_1.fbx'
+export finished in 0.2239 sec.
+HERO_ANIMATION 100 single_touzhi_1 single_touzhi_1 21 1488236
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_touzhi_2.fbx'
+export finished in 0.2587 sec.
+HERO_ANIMATION 100 single_touzhi_2 single_touzhi_2 35 1664716
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_single_chuansong.fbx'
+export finished in 0.2175 sec.
+HERO_ANIMATION 100 single_chuansong single_chuansong 21 1488236
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_bingdong.fbx'
+export finished in 0.1410 sec.
+HERO_ANIMATION 100 bingdong bingdong 1 1117804
+Info: Saved "H100_Animated.blend"
+Blender 4.3.1 (hash 33d812126174 built 2024-12-10 10:08:19)
+Read blend: "G:\Code\UE\EternalRebirth\SourceArt\Heroes\100\H100.blend"
+
+Blender quit

@@ -1,0 +1,14 @@
+HERO_PART 013 H013_Part00 5095 7107 weights 7975
+HERO_PART 013 H013_Part01 44 80 weights 44
+HERO_PART 013 H013_Part02 44 80 weights 44
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\013\\SK_H013.fbx'
+(bpy.data.armatures['SK_H013'], 'POSE')
+(bpy.data.armatures['SK_H013'], 'POSE')
+(bpy.data.armatures['SK_H013'], 'POSE')
+export finished in 0.0520 sec.
+Info: Saved "H013.blend"
+HERO_CONVERTED 013 parts 3 bones 86 fbx 666940
+Blender 4.3.1 (hash 33d812126174 built 2024-12-10 10:08:19)
+
+Blender quit

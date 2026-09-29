@@ -1,0 +1,63 @@
+Using bundled DotNet SDK version: 10.0 win-x64
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" EternalRebirthEditor Win64 Development -Project=G:\Code\UE\EternalRebirth\EternalRebirth.uproject -WaitMutex -NoHotReloadFromIDE
+Log file: C:\Users\Administrator\AppData\Local\UnrealBuildTool\Log.txt
+Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+  Executing up to 6 processes, one per physical core
+UbaServer - Listening on 0.0.0.0:1345
+Invalidating makefile for EternalRebirthEditor (source file added)
+Visual Studio toolchain version 14.38.33143 is not a preferred version. Please use a preferred toolchain such as 14.50.35717
+UHT compiled-in object format Default
+UHT processed EternalRebirthEditor in 7.823983 seconds (3 generated files written)
+Building EternalRebirthEditor...
+===== Toolchain Information =====
+Using ISPC compiler (D:\Epic Games\UE_5.8\Engine\Source\ThirdParty\Intel\ISPC\bin\Windows\ispc.exe)
+  Intel(r) Implicit SPMD Program Compiler (Intel(r) ISPC), 1.24.0 (build commit  @ 20250404, LLVM 18.1.2) 
+Using Clang 20.1.8 compiler (G:\Code\UE\Tools\LLVM) with Visual Studio 14.38.33143 runtime (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Notice: Visual Studio runtime 14.38.33143 is not a preferred version
+=================================
+Using Unreal Build Accelerator local executor to run 6 action(s)
+  CPU 6 physical cores, 12 logical cores
+  Memory 31.81 GB physical, 28.62 GB/34.31 GB committed
+  UBA Storage capacity 40 GB
+[1/6] Compile [x64] CombatPrototype.cpp
+G:\Code\UE\EternalRebirth\Source\EternalRebirth\CombatPrototype.cpp(209,25): error: no viable conversion from 'FVector' (aka 'TVector<double>') to 'const FVector2D' (aka 'const TVector2<double>')
+  209 |         const FVector2D Screen=Project(Dummy->GetActorLocation()+FVector(0,0,180));
+      |                         ^      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(34,8): note: candidate constructor (the implicit copy constructor) not viable: no known conversion from 'FVector' (aka 'TVector<double>') to 'const TVector2<double> &' for 1st argument
+   34 | struct TVector2 
+      |        ^~~~~~~~
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(34,8): note: candidate constructor (the implicit move constructor) not viable: no known conversion from 'FVector' (aka 'TVector<double>') to 'TVector2<double> &&' for 1st argument
+   34 | struct TVector2 
+      |        ^~~~~~~~
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(107,36): note: candidate template ignored: could not match 'TIntPoint' against 'TVector'
+  107 |         [[nodiscard]] UE_FORCEINLINE_HINT TVector2<T>(TIntPoint<IntType> InPos);
+      |                                           ^
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(99,45): note: explicit constructor is not a candidate
+   99 |         [[nodiscard]] explicit UE_FORCEINLINE_HINT TVector2<T>(T InF);
+      |                                                    ^
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(110,29): note: explicit constructor is not a candidate
+  110 |     [[nodiscard]] explicit  TVector2<T>(TIntVector2<IntType> V);
+      |                             ^
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(124,45): note: explicit constructor is not a candidate
+  124 |         [[nodiscard]] explicit UE_FORCEINLINE_HINT TVector2<T>(ENoInit) { }
+      |                                                    ^
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(132,32): note: explicit constructor is not a candidate
+  132 |         [[nodiscard]] explicit inline TVector2<T>(const TVector<T>& V);
+      |                                       ^
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(140,32): note: explicit constructor is not a candidate
+  140 |         [[nodiscard]] explicit inline TVector2<T>(const TVector4<T>& V);
+      |                                       ^
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(724,11): note: explicit constructor is not a candidate
+  724 |         explicit TVector2(const TVector2<FArg>& From)
+      |                  ^
+D:\Epic Games\UE_5.8\Engine\Source\Runtime\Core\Public\Math\Vector2D.h(117,45): note: explicit constructor is not a candidate
+  117 |         [[nodiscard]] explicit UE_FORCEINLINE_HINT TVector2<T>(EForceInit);
+      |                                                    ^
+1 error generated.
+[2/6] Compile [x64] Module.EternalRebirth.gen.cpp
+[3/6] Compile [x64] RebirthExperience.cpp
+Total time in Unreal Build Accelerator local executor: 26.42 seconds
+
+Result: Failed (OtherCompilationError)
+Total execution time: 38.78 seconds
+Trace written to file C:\Users\Administrator\AppData\Local\UnrealBuildTool\Trace.uba with size 11.1kb

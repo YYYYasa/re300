@@ -1,0 +1,54 @@
+H100_BASE_EFFECT_FILES 17
+H100_EFFECT_EXTENSIONS Counter({'.x': 17})
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s01_putonggongji\fire\tx_100_s01_2_01.x size -1
+  PARSED 0 meshes 3 textures 1 bones 0 actions
+  TEXTURES ['tx_shandian_4007.TGA', 'tx_dian_0069.tga', 'tx_shandian_3000.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s01_putonggongji\hit\tx_100_s01_4_01.x size -1
+  PARSED 0 meshes 5 textures 2 bones 0 actions
+  TEXTURES ['tx_xulie_0005.dds', 'tx_kuosan_0030.tga', 'tx_dian_0047.tga', 'tx_xulie_0009.tga', 'tx_xulie_0034.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s01_putonggongji\trace\tx_100_s01_3_01.x size -1
+  PARSED 4 meshes 2 textures 1 bones 0 actions
+  TEXTURES ['tx_tuxing_1254.tga', 'tx_tuxing_1253.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s03_yaoguai\trece\tx_100_s03_3_01.x size -1
+  PARSED 4 meshes 4 textures 2 bones 2 actions
+  TEXTURES ['tx_tiaodai_0149.TGA', 'tx_tuxing_1253.tga', 'tx_tuxing_1254.tga', 'tx_xingguang_1013.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s04_bafangzhen\keep\tx_100_s04_5_01.x size -1
+  PARSED 9 meshes 11 textures 3 bones 1 actions
+  TEXTURES ['tx_dian_0069.tga', 'tx_tuxing_1061.tga', 'tx_kuosan_1027.tga', 'tx_tiaodai_1006.tga', 'tx_tiaodai_1088.tga', 'tx_tiaodai_0130.tga', 'tx_xingguang_1013.tga', 'tx_kuosan_1022.tga', 'tx_kuosan_0071.tga', 'tx_xuanzhuan_1015.tga', 'tx_kuosan_0092.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s05_guishenyu\hit\tx_100_s05_4_01.x size -1
+  PARSED 0 meshes 6 textures 2 bones 0 actions
+  TEXTURES ['tx_dian_0069.tga', 'tx_kuosan_0071.tga', 'tx_kuosan_1040.tga', 'tx_shandian_1016.tga', 'tx_dian_1009.tga', 'tx_yanwu_4000.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s04_bafangzhen\keep\tx_100_s04_5_02.x size -1
+  PARSED 4 meshes 3 textures 2 bones 0 actions
+  TEXTURES ['tx_tuxing_0037.TGA', 'tx_kuosan_0071.tga', 'tx_kuosan_1027.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s05_guishenyu\keep\tx_100_s05_5_01.x size -1
+  PARSED 1 meshes 5 textures 1 bones 0 actions
+  TEXTURES ['tx_dian_0069.tga', 'tx_kuosan_1027.tga', 'tx_kuosan_4000.TGA', 'tx_kuosan_1034.tga', 'tx_yanwu_0080.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s05_guishenyu\trace\tx_100_s05_3_01.x size -1
+  PARSED 2 meshes 4 textures 1 bones 0 actions
+  TEXTURES ['tx_tuxing_0037.TGA', 'tx_dian_0076.tga', 'tx_tiaodai_0149.TGA', 'tx_xulie_1049.TGA']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s06_menxiangfengyin\hit\tx_100_s06_4_01.x size -1
+  PARSED 0 meshes 6 textures 2 bones 0 actions
+  TEXTURES ['tx_xulie_0005.dds', 'tx_kuosan_0030.tga', 'tx_dian_0047.tga', 'tx_xulie_0009.tga', 'tx_dian_0047.tga', 'tx_xulie_0034.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s06_menxiangfengyin\song\tx_100_s06_1_01.x size -1
+  PARSED 13 meshes 3 textures 7 bones 0 actions
+  TEXTURES ['tx_dian_0069.tga', 'tx_tuxing_0037.TGA', 'tx_tiaodai_0149.TGA']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s06_menxiangfengyin\trace\tx_100_s06_3_01.x size -1
+  PARSED 2 meshes 3 textures 1 bones 0 actions
+  TEXTURES ['tx_xulie_1047.TGA', 'tx_dian_0069.tga', 'tx_tuxing_0037.TGA']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s06_menxiangfengyin\trace\tx_100_s06_3_02.x size -1
+  PARSED 2 meshes 3 textures 1 bones 0 actions
+  TEXTURES ['tx_xulie_1047.TGA', 'tx_dian_0069.tga', 'tx_tuxing_0037.TGA']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s06_menxiangfengyin\trace\tx_100_s06_3_03.x size -1
+  PARSED 2 meshes 3 textures 1 bones 0 actions
+  TEXTURES ['tx_xulie_1047.TGA', 'tx_dian_0069.tga', 'tx_tuxing_0037.TGA']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s06_menxiangfengyin\trace\tx_100_s06_3_04.x size -1
+  PARSED 2 meshes 3 textures 1 bones 0 actions
+  TEXTURES ['tx_dian_0069.tga', 'tx_tuxing_0037.TGA', 'tx_xulie_1047.TGA']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s06_menxiangfengyin\trace\tx_100_s06_3_05.x size -1
+  PARSED 2 meshes 3 textures 1 bones 0 actions
+  TEXTURES ['tx_xulie_1047.TGA', 'tx_tuxing_0037.TGA', 'tx_dian_0069.tga']
+H100_EFFECT ..\data\magic\skill\100_bolilinmeng\s06_menxiangfengyin\trace\tx_100_s06_3_06.x size -1
+  PARSED 2 meshes 3 textures 1 bones 0 actions
+  TEXTURES ['tx_xulie_1047.TGA', 'tx_dian_0069.tga', 'tx_tuxing_0037.TGA']
+H100_ACTIONS [{'name': 'bat_idle', 'start': 5, 'end': 35}, {'name': 'bat_actionidle', 'start': 5, 'end': 35}, {'name': 'bat_specialidle', 'start': 270, 'end': 348}, {'name': 'bat_run', 'start': 230, 'end': 254}, {'name': 'dead', 'start': 483, 'end': 526}, {'name': 'single_idle', 'start': 5, 'end': 35}, {'name': 'single_actionidle', 'start': 5, 'end': 45}, {'name': 'single_specialidle', 'start': 270, 'end': 348}, {'name': 'single_run', 'start': 458, 'end': 478}, {'name': 'single_attack_attcom_1', 'start': 50, 'end': 95}, {'name': 'single_attack_attcom_2', 'start': 100, 'end': 145}, {'name': 'single_skill_01', 'start': 50, 'end': 95}, {'name': 'single_skill_02', 'start': 150, 'end': 170}, {'name': 'single_skill_03', 'start': 100, 'end': 145}, {'name': 'single_skill_04', 'start': 180, 'end': 225}, {'name': 'single_touzhi_1', 'start': 400, 'end': 420}, {'name': 'single_touzhi_2', 'start': 421, 'end': 455}, {'name': 'single_chuansong', 'start': 150, 'end': 170}, {'name': 'bingdong', 'start': 0, 'end': 0}]

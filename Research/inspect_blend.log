@@ -1,0 +1,12 @@
+MATERIAL M_stex_sterrain4_4 [('BSDF_PRINCIPLED', ''), ('OUTPUT_MATERIAL', ''), ('TEX_IMAGE', '//Textures\\T_stex_sterrain4_4.png')] [('Principled BSDF', 'Surface'), ('Image Texture', 'Base Color')]
+MATERIAL M_stex_cl_01 [('BSDF_PRINCIPLED', ''), ('OUTPUT_MATERIAL', ''), ('TEX_IMAGE', '//Textures\\T_stex_cl_01.png')] [('Principled BSDF', 'Surface'), ('Image Texture', 'Base Color')]
+MATERIAL M_neutral [('BSDF_PRINCIPLED', ''), ('OUTPUT_MATERIAL', '')] [('Principled BSDF', 'Surface')]
+HIT (0, 0) (0.0, 0.0, 20.001998901367188) SM_Arena_2_2 11 M_stex_sterrain4_5
+HIT (1000, 1000) (1000.0, 1000.0, 20.002029418945312) SM_Arena_2_2 11 M_stex_sterrain4_5
+HIT (-3000, -3000) (-3000.0, -3000.0, 20.00201416015625) SM_Arena_1_1 18 M_stex_sterrain6_3
+HIT (4000, 4000) (4000.0, 4000.0, 40.0018310546875) SM_Arena_3_3 8 M_stex_sterrain2_7
+HIT (0, 4000) (0.0, 4000.0, 153.12557983398438) SM_Arena_1_3 2 M_stex_cl_15_b
+Blender 4.3.1 (hash 33d812126174 built 2024-12-10 10:08:19)
+Read blend: "G:\Code\UE\EternalRebirth\SourceArt\Arena_Reconstructed.blend"
+
+Blender quit

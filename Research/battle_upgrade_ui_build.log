@@ -1,0 +1,15 @@
+Using bundled DotNet SDK version: 10.0 win-x64
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" EternalRebirthEditor Win64 Development -Project=G:\Code\UE\EternalRebirth\EternalRebirth.uproject -WaitMutex -NoHotReloadFromIDE
+Log file: C:\Users\Administrator\AppData\Local\UnrealBuildTool\Log.txt
+Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+  Executing up to 6 processes, one per physical core
+UbaServer - Listening on 0.0.0.0:1345
+Invalidating makefile for EternalRebirthEditor (source file added)
+Visual Studio toolchain version 14.38.33143 is not a preferred version. Please use a preferred toolchain such as 14.50.35717
+UHT compiled-in object format Default
+G:\Code\UE\EternalRebirth\Source\EternalRebirth\HeroSpellVisual.h(17): Error: Member variable declaration: 'Layers' cannot be defined in 'AHeroSpellVisual' as it is already defined in scope 'AActor' (shadowing is not allowed)
+Unhandled 1 aggregate exceptions
+
+Result: Failed (OtherCompilationError)
+Total execution time: 21.73 seconds
+Trace written to file C:\Users\Administrator\AppData\Local\UnrealBuildTool\Trace.uba with size 4.1kb

@@ -1,0 +1,314 @@
+Using bundled DotNet SDK version: 10.0 win-x64
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -Mode=ValidatePlatforms -OutputSDKs  -AllPlatforms  -project="G:/Code/UE/EternalRebirth/ArtBuild.uproject" -log="G:/Code/UE/EternalRebirth/Saved/Logs/AutoSDKInfo.txt" -verbose -timestamps
+[2026.09.27-13.54.34:917][  0]LogInit: Display: Running engine for game: ArtBuild
+[2026.09.27-13.54.34:917][  0]LogCore: Warning: UTS: Unreal Trace Server process returned an error (0xc0000409)
+[2026.09.27-13.54.34:917][  0]LogCore: Display: Requested channels: 'cpu,gpu,frame,log,bookmark,screenshot,region'
+[2026.09.27-13.54.34:917][  0]LogTrace: Display: Control listening on port 40558
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : platform="Windows"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : config="Development"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.8-CL-58210709"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : engineversion="5.8.3-58210709+++UE5+Release-5.8"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : enginereleaseversion="5.8.3"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.4317] "
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i5-12490F"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : ltoenabled="0"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : asan="0"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : mergedmodules="0"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : compacttset="0"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : commandline="" G:\Code\UE\EternalRebirth\ArtBuild.uproject -run=pythonscript -script=G:\Code\UE\Tools\probe_hero_gallery.py -NullRHI -DDC-ForceMemoryCache -unattended -nosplash -NoSound -abslog=G:\Code\UE\Research\hero_gallery_probe.log""
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : loginid="a2a1fb744d3681f56e50dbbee3faa5ed"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : llm="0"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : zenstreaming="0"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2026.09.27-13.54.34:917][  0]LogFileManager: Warning: Error deleting file: C:/Users/Administrator/AppData/Local/UnrealEngine/5.8/Saved/Config/WindowsEditor/EditorSettings.ini (Error Code 5)
+[2026.09.27-13.54.34:917][  0]LogAudio: Display: Audio Device Manager not initializing due to all audio being disabled. If this is not intentional, please check command line arguments for "-nosound".
+[2026.09.27-13.54.34:917][  0]LogConfig: Display: Loading Mac ini files took 0.06 seconds
+[2026.09.27-13.54.34:917][  0]LogConfig: Display: Loading IOS ini files took 0.06 seconds
+[2026.09.27-13.54.34:917][  0]LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+[2026.09.27-13.54.34:917][  0]LogConfig: Display: Loading Android ini files took 0.07 seconds
+[2026.09.27-13.54.34:917][  0]LogConfig: Display: Loading TVOS ini files took 0.08 seconds
+[2026.09.27-13.54.34:917][  0]LogConfig: Display: Loading Unix ini files took 0.08 seconds
+[2026.09.27-13.54.34:917][  0]LogConfig: Display: Loading Windows ini files took 0.08 seconds
+[2026.09.27-13.54.34:917][  0]LogConfig: Display: Loading Linux ini files took 0.09 seconds
+[2026.09.27-13.54.34:917][  0]LogConfig: Display: Loading VisionOS ini files took 0.07 seconds
+[2026.09.27-13.54.34:917][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.Log is disabled for this application
+[2026.09.27-13.54.34:917][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.CSV is disabled for this application
+[2026.09.27-13.54.34:917][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.Horde is disabled for this application
+[2026.09.27-13.54.34:917][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.Log is disabled for this application
+[2026.09.27-13.54.34:917][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.CSV is disabled for this application
+[2026.09.27-13.54.34:917][  0]LogAnalytics: Display: Provider StudioTelemetry.Provider.Horde is disabled for this application
+[2026.09.27-13.54.34:917][  0]LogAsyncCompilation: Display: MemorySharingInfo: UsedMemory=278MiB, MaxMemoryAvailable=35134MiB
+[2026.09.27-13.54.34:917][  0]RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+[2026.09.27-13.54.34:917][  0]LogSsl: Warning: Unable to open ROOT certificate store. Platform provided certificates will not be used
+[2026.09.27-13.54.34:917][  0]LogStreaming: Display: AsyncLoading2 - Created: Async Loading Thread: false, Async Post Load: false, Multithreaded: false
+[2026.09.27-13.54.34:917][  0]LogHAL: Display: Platform has ~ 32 GB [34160525312 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.09.27-13.54.34:917][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2026.09.27-13.54.34:917][  0]LogObj: Display: Attempting to load config data for Default__DownlinkBandwidthManagerConfig before the Class has been constructed/registered/linked (likely during module loading or early startup). This will result in the load silently failing and should be fixed.
+[2026.09.27-13.54.35:328][  0]LogObj: Display: Attempting to load config data for Default__SlateThemeManager before the Class has been constructed/registered/linked (likely during module loading or early startup). This will result in the load silently failing and should be fixed.
+[2026.09.27-13.54.35:486][  0]LogCsvProfiler: Display: Metadata set : verbatimrhiname="Null"
+[2026.09.27-13.54.35:486][  0]LogCsvProfiler: Display: Metadata set : rhiname="Null"
+[2026.09.27-13.54.35:486][  0]LogCsvProfiler: Display: Metadata set : rhifeaturelevel="SM6"
+[2026.09.27-13.54.35:486][  0]LogCsvProfiler: Display: Metadata set : shaderplatform="PCD3D_SM6"
+[2026.09.27-13.54.35:486][  0]LogCsvProfiler: Display: Metadata set : gpu=""
+[2026.09.27-13.54.35:486][  0]LogCsvProfiler: Display: Metadata set : gpudriver=""
+[2026.09.27-13.54.35:494][  0]LogTextureFormatASTC: Display: ASTCEnc version 5.0.1 library loaded
+[2026.09.27-13.54.35:494][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatASTC
+[2026.09.27-13.54.35:494][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatDXT
+[2026.09.27-13.54.35:494][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatETC2
+[2026.09.27-13.54.35:494][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatIntelISPCTexComp
+[2026.09.27-13.54.35:494][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.16
+[2026.09.27-13.54.35:494][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.16.dll
+[2026.09.27-13.54.35:495][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatOodle
+[2026.09.27-13.54.35:495][  0]LogTextureFormatManager: Display: Loaded Base TextureFormat: TextureFormatUncompressed
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2026.09.27-13.54.35:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2026.09.27-13.54.35:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2026.09.27-13.54.35:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2026.09.27-13.54.35:600][  0]LogTargetPlatformManager: Display: Failed to SetupSDK for platform 'Linux'
+[2026.09.27-13.54.35:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2026.09.27-13.54.35:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacEditor'
+[2026.09.27-13.54.35:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2026.09.27-13.54.35:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2026.09.27-13.54.35:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2026.09.27-13.54.35:659][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2026.09.27-13.54.35:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.09.27-13.54.35:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2026.09.27-13.54.35:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.09.27-13.54.35:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.09.27-13.54.35:690][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2026.09.27-13.54.35:696][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2026.09.27-13.54.36:055][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1670 MiB)
+[2026.09.27-13.54.36:055][  0]LogZenServiceInstance: Warning: Skipping Zen config default=C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Data due to an invalid path
+[2026.09.27-13.54.36:055][  0]LogZenServiceInstance: Warning: Unable to determine a valid Zen data path
+[2026.09.27-13.54.36:055][  0]LogZenServiceInstance: Warning: Unreal Zen Storage Server is unable to determine a valid data path
+[2026.09.27-13.54.36:055][  0]LogZenServiceInstance: Display: Launching zen utility 'D:/Epic Games/UE_5.8/Engine/Binaries/Win64/zen.exe service status'.
+[2026.09.27-13.54.36:584][  0]LogZenServiceInstance: Display: Unable to find existing plugin information at 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen_plugin_versions.json'. Creating a new plugin info file.
+[2026.09.27-13.54.36:584][  0]LogZenServiceInstance: Display: Writing plugin version info to 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen_plugin_versions.json'
+[2026.09.27-13.54.36:585][  0]LogZenServiceInstance: Display: Launching zen utility 'D:/Epic Games/UE_5.8/Engine/Binaries/Win64/zen.exe version --detailed --output-path "C:\Users\Administrator\zenversionC4CB935F46E1A9ECB3A9319B841DF3B0.tmp"'.
+[2026.09.27-13.54.36:955][  0]LogZenServiceInstance: Warning: Zen utility process completed but failed with error code 1
+[2026.09.27-13.54.36:955][  0]LogZenServiceInstance: Warning: Unable to determine version using zen utility executable path: 'D:/Epic Games/UE_5.8/Engine/Binaries/Win64/zen.exe'. Using legacy version check.
+[2026.09.27-13.54.36:955][  0]LogZenServiceInstance: Display: Using legacy zen version for 'D:/Epic Games/UE_5.8/Engine/Binaries/Win64/zen.exe', version: '0.0.0-2026.09.25-09.11.55'
+[2026.09.27-13.54.36:956][  0]LogZenServiceInstance: Display: Launching zen utility 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen.exe version --detailed --output-path "C:\Users\Administrator\zenversion54558CA54FAEAE15211A74805A0B6159.tmp"'.
+[2026.09.27-13.54.36:958][  0]LogWindows: Warning: CreateProc failed: 拒绝访问。 (0x00000005)
+[2026.09.27-13.54.36:958][  0]LogWindows: Warning: URL: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen.exe version --detailed --output-path "C:\Users\Administrator\zenversion54558CA54FAEAE15211A74805A0B6159.tmp"
+[2026.09.27-13.54.36:958][  0]LogZenServiceInstance: Warning: Failed to launch zen utility 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen.exe version --detailed --output-path "C:\Users\Administrator\zenversion54558CA54FAEAE15211A74805A0B6159.tmp"'
+[2026.09.27-13.54.36:958][  0]LogZenServiceInstance: Warning: Zen utility process completed but failed with error code 32
+[2026.09.27-13.54.36:958][  0]LogZenServiceInstance: Warning: Unable to determine version using zen utility executable path: 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen.exe'. Using legacy version check.
+[2026.09.27-13.54.36:958][  0]LogZenServiceInstance: Display: Using legacy zen version for 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen.exe', version: '0.0.0-2026.09.26-10.32.28'
+[2026.09.27-13.54.36:959][  0]LogZenServiceInstance: Display: Installed service at 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' is up to date
+[2026.09.27-13.54.36:960][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.36:960][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 22816 runnning on effective port 8558
+[2026.09.27-13.54.38:277][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 22816
+[2026.09.27-13.54.38:277][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.38:280][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.38:280][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.38:781][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.38:781][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.38:783][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.38:783][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.39:284][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.39:284][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.39:286][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.39:286][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.40:651][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.40:651][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 19560 runnning on effective port 8558
+[2026.09.27-13.54.41:942][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 19560
+[2026.09.27-13.54.41:942][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.41:943][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.41:943][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.42:445][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.42:445][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.42:447][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.42:447][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.42:948][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.42:949][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.42:950][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.42:950][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.43:452][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.43:453][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.43:454][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.43:454][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.44:592][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.44:592][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 29472 runnning on effective port 8558
+[2026.09.27-13.54.45:826][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 29472
+[2026.09.27-13.54.45:826][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.45:829][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.45:829][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.46:330][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.46:330][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.46:332][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.46:332][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.46:833][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.46:833][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.46:835][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.46:836][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.48:087][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.48:087][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 24468 runnning on effective port 8558
+[2026.09.27-13.54.48:705][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 24468
+[2026.09.27-13.54.48:705][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.48:707][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.48:707][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.49:208][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.49:209][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.49:210][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.49:210][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.49:711][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.49:711][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.49:713][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.49:713][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.50:215][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.50:215][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.50:217][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.50:217][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.51:523][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.51:523][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 9688 runnning on effective port 8558
+[2026.09.27-13.54.52:216][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 9688
+[2026.09.27-13.54.52:216][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.52:218][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.52:218][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.52:719][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.52:719][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.52:721][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.52:721][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.53:222][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.53:222][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.53:224][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.53:224][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.53:725][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.53:726][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.53:727][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.53:727][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.54:974][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.54:974][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 16692 runnning on effective port 8558
+[2026.09.27-13.54.56:721][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 16692
+[2026.09.27-13.54.56:721][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.56:723][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.56:723][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.57:223][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.57:224][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.57:225][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.57:225][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.54.58:579][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.54.58:579][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 5840 runnning on effective port 8558
+[2026.09.27-13.54.59:291][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 5840
+[2026.09.27-13.54.59:291][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.54.59:292][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.54.59:292][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.55.00:239][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.55.00:239][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 28836 runnning on effective port 8558
+[2026.09.27-13.55.02:224][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 28836
+[2026.09.27-13.55.02:224][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.55.02:226][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.55.02:226][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.55.02:728][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.55.02:728][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.55.02:729][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.55.02:729][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.55.03:659][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.55.03:659][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 28536 runnning on effective port 8558
+[2026.09.27-13.55.05:667][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 28536
+[2026.09.27-13.55.05:667][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.55.05:669][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.55.05:669][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.55.06:643][  0]LogZenServiceInstance: Display: Lock file '.lock' is not active, nothing to do
+[2026.09.27-13.55.06:643][  0]LogZenServiceInstance: Display: Requesting shut down of zenserver process 8400 runnning on effective port 8558
+[2026.09.27-13.55.08:793][  0]LogZenServiceInstance: Display: Successfully shut down zenserver process with pid 8400
+[2026.09.27-13.55.08:793][  0]LogZenServiceInstance: Display: Launching executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe', working dir 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install', data dir '', args '--port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup'
+[2026.09.27-13.55.08:794][  0]LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.55.08:794][  0]LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.55.08:794][  0]LogZenServiceInstance: Warning: Local ZenServer AutoLaunch initialization timed out waiting for service to become healthy, waited 31.834 seconds
+[2026.09.27-13.55.09:498][  0]LogDerivedDataCache: Display: ZenLocal: Unable to reach ZenServer HTTP service at localhost with namespace ue.ddc. ErrorCode: None, Error: , Status: 404, Response: No suitable route found.
+[2026.09.27-13.55.09:498][  0]LogDerivedDataCache: Display: ZenLocal: Readiness check failed. It will be deactivated until responsiveness improves. If this is consistent, consider disabling this cache store through the use of the '-ddc=NoZenLocalFallback' or '-ddc=InstalledNoZenLocalFallback' commandline arguments.
+[2026.09.27-13.55.09:501][  0]LogDerivedDataCache: Warning: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Failed to read from C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/TestData/0/TestData_4kb.dat. ReadError: 5 (拒绝访问。)
+[2026.09.27-13.55.09:501][  0]LogDerivedDataCache: Display: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Performance: Latency=0.10ms. RandomReadSpeed=0.00MBs, RandomWriteSpeed=-nan(ind)MBs. Assigned SpeedClass 'Local'
+[2026.09.27-13.55.09:502][  0]LogDerivedDataCache: Error: Unable to use cache graph 'Installed' because it has no writable nodes available. Creating a memory cache as a fallback to avoid crashing immediately.
+[2026.09.27-13.55.09:505][  0]LogUbaHorde: Display: UBA/Horde Configuration [Uba.Provider.Horde]: Not Enabled
+[2026.09.27-13.55.09:505][  0]LogShaderCompilers: Display: No distributed shader compiler controller found
+[2026.09.27-13.55.09:505][  0]LogShaderCompilers: Display: Using 9 local workers for shader compilation
+[2026.09.27-13.55.09:506][  0]LogShaderCompilers: Display: Compiling shader autogen file: G:/Code/UE/EternalRebirth/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+[2026.09.27-13.55.09:506][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2026.09.27-13.55.10:288][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2026.09.27-13.55.10:590][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2026.09.27-13.55.10:590][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2026.09.27-13.55.10:649][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2026.09.27-13.55.10:651][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2026.09.27-13.55.10:673][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: Final (cook).
+[2026.09.27-13.55.10:673][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2026.09.27-13.55.10:673][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2026.09.27-13.55.10:700][  0]LogMeshReduction: Display: Using QuadricMeshReduction for automatic static mesh reduction
+[2026.09.27-13.55.10:700][  0]LogMeshReduction: Display: Using SkeletalMeshReduction for automatic skeletal mesh reduction
+[2026.09.27-13.55.10:700][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
+[2026.09.27-13.55.10:700][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
+[2026.09.27-13.55.10:849][  0]LogShaderCompilers: Display: Compiling shader autogen file: G:/Code/UE/EternalRebirth/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2026.09.27-13.55.10:849][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2026.09.27-13.55.10:849][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2026.09.27-13.55.10:849][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2026.09.27-13.55.10:928][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2026.09.27-13.55.10:930][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 2.592 ms
+[2026.09.27-13.55.11:174][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2026.09.27-13.55.11:178][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2026.09.27-13.55.11:923][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.09.27-13.55.11:923][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.09.27-13.55.12:249][  0]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PreLoad): 1 .ref files found, 1 referenced binaries
+[2026.09.27-13.55.12:249][  0]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.09.27-13.55.12:250][  0]LogAssetRegistry: Display: FindShardedCacheFiles: 1 via .ref, 0 via migration fallback, 1 total
+[2026.09.27-13.55.12:250][  0]LogAssetRegistry: Display: LoadCacheFiles: loading 1 cache files, memory-mapping=enabled
+[2026.09.27-13.55.12:376][  0]LogAssetRegistry: Display: Asset registry cache read as 119.0 MiB from G:/Code/UE/EternalRebirth/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_EB00770F47A0E3280BD119BD32CC81F3.bin (memory-mapped=yes)
+[2026.09.27-13.55.12:377][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.128s loading caches from G:/Code/UE/EternalRebirth/Intermediate/CachedAssetRegistry.
+[2026.09.27-13.55.12:439][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2026.09.27-13.55.12:502][  0]LogPython: Display: No pip-enabled plugins with python dependencies found, skipping
+[2026.09.27-13.55.12:877][  0]LogCsvProfiler: Display: Metadata set : raytracing="0"
+[2026.09.27-13.55.13:028][  0]LogPython: Display: 正在运行启动脚本D:/Epic Games/UE_5.8/Engine/Plugins/Animation/IKRig/Content/Python/init_unreal.py…… started...
+[2026.09.27-13.55.13:042][  0]LogPython: Display: 正在运行启动脚本D:/Epic Games/UE_5.8/Engine/Plugins/Animation/IKRig/Content/Python/init_unreal.py…… took 14.260 ms
+[2026.09.27-13.55.13:042][  0]LogPython: Display: 正在运行启动脚本D:/Epic Games/UE_5.8/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py…… started...
+[2026.09.27-13.55.13:395][  0]LogPython: Display: 正在运行启动脚本D:/Epic Games/UE_5.8/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py…… took 352.269 ms (total: 366.529 ms)
+[2026.09.27-13.55.13:395][  0]LogPythonScriptCommandlet: Display: Running Python script: G:\Code\UE\Tools\probe_hero_gallery.py
+[2026.09.27-13.55.13:548][  0]LogAsyncCompilation: Display: 注意：AssetCompile内存估计值大于可用值，但无论如何我们都会运行它[SkinnedAsset]！所需内存 = 0.000 MiB + 4608.000 MiB，内存限制 = 4235.179688 MiB 
+[2026.09.27-13.55.13:548][  0]LogAsyncCompilation: Display: 注意：AssetCompile内存估计值大于可用值，但无论如何我们都会运行它[SkinnedAsset]！所需内存 = 0.000 MiB + 4608.000 MiB，内存限制 = 4227.164062 MiB 
+[2026.09.27-13.55.13:567][  0]LogSkinnedAsset: Display: 正在等待蒙皮资产就绪0/1（SK_H013）……
+[2026.09.27-13.55.13:640][  0]LogAsyncCompilation: Display: 注意：AssetCompile内存估计值大于可用值，但无论如何我们都会运行它[SkinnedAsset]！所需内存 = 0.000 MiB + 4608.000 MiB，内存限制 = 4182.636719 MiB 
+[2026.09.27-13.55.13:641][  0]LogAsyncCompilation: Display: 注意：AssetCompile内存估计值大于可用值，但无论如何我们都会运行它[SkinnedAsset]！所需内存 = 0.000 MiB + 4608.000 MiB，内存限制 = 4182.636719 MiB 
+[2026.09.27-13.55.13:657][  0]LogSkinnedAsset: Display: 正在等待蒙皮资产就绪0/1（SK_H100）……
+[2026.09.27-13.55.13:809][  0]LogAsyncCompilation: Display: 注意：AssetCompile内存估计值大于可用值，但无论如何我们都会运行它[SkinnedAsset]！所需内存 = 0.000 MiB + 4608.000 MiB，内存限制 = 4095.4375 MiB 
+[2026.09.27-13.55.13:810][  0]LogAsyncCompilation: Display: 注意：AssetCompile内存估计值大于可用值，但无论如何我们都会运行它[SkinnedAsset]！所需内存 = 0.000 MiB + 4608.000 MiB，内存限制 = 4095.4375 MiB 
+[2026.09.27-13.55.13:827][  0]LogSkinnedAsset: Display: 正在等待蒙皮资产就绪0/1（SK_H101）……
+[2026.09.27-13.55.13:906][  0]LogPythonScriptCommandlet: Display: Python script executed successfully
+[2026.09.27-13.55.13:906][  0]LogInit: Display: 
+[2026.09.27-13.55.13:906][  0]LogInit: Display: Warning/Error Summary (Unique only)
+[2026.09.27-13.55.13:906][  0]LogInit: Display: -----------------------------------
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogDerivedDataCache: Error: Unable to use cache graph 'Installed' because it has no writable nodes available. Creating a memory cache as a fallback to avoid crashing immediately.
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogFileManager: Warning: Error deleting file: C:/Users/Administrator/AppData/Local/UnrealEngine/5.8/Saved/Config/WindowsEditor/EditorSettings.ini (Error Code 5)
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogSsl: Warning: Unable to open ROOT certificate store. Platform provided certificates will not be used
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Skipping Zen config default=C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Data due to an invalid path
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Unable to determine a valid Zen data path
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Unreal Zen Storage Server is unable to determine a valid data path
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Zen utility process completed but failed with error code 1
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Unable to determine version using zen utility executable path: 'D:/Epic Games/UE_5.8/Engine/Binaries/Win64/zen.exe'. Using legacy version check.
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogWindows: Warning: CreateProc failed: 拒绝访问。 (0x00000005)
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogWindows: Warning: URL: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen.exe version --detailed --output-path "C:\Users\Administrator\zenversion54558CA54FAEAE15211A74805A0B6159.tmp"
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Failed to launch zen utility 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen.exe version --detailed --output-path "C:\Users\Administrator\zenversion54558CA54FAEAE15211A74805A0B6159.tmp"'
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Zen utility process completed but failed with error code 32
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Unable to determine version using zen utility executable path: 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zen.exe'. Using legacy version check.
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Failed launching "C:\Users\Administrator\AppData\Local\UnrealEngine\Common\Zen\Install\zenserver.exe" --port 8558 --data-dir  --no-sentry --http-forceloopback  --child-id Zen_28840_Startup status: 5.
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Failed launch service using executable 'C:/Users/Administrator/AppData/Local/UnrealEngine/Common/Zen/Install/zenserver.exe' on port 8558
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogZenServiceInstance: Warning: Local ZenServer AutoLaunch initialization timed out waiting for service to become healthy, waited 31.834 seconds
+[2026.09.27-13.55.13:906][  0]LogInit: Display: LogDerivedDataCache: Warning: C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Failed to read from C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache/TestData/0/TestData_4kb.dat. ReadError: 5 (拒绝访问。)
+[2026.09.27-13.55.13:906][  0]LogInit: Display: 
+[2026.09.27-13.55.13:906][  0]LogInit: Display: Failure - 1 error(s), 64 warning(s)
+[2026.09.27-13.55.13:906][  0]LogInit: Display: 
+
+Execution of commandlet took:  0.88 seconds, PeakPhysMemoryMB=1640 MB, PeakVirtMemoryMB=1495 MB
+[2026.09.27-13.55.14:059][  0]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.09.27-13.55.14:059][  0]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.09.27-13.55.14:187][  0]LogShaderCompilers: Display: Exiting ShaderCompilingThread

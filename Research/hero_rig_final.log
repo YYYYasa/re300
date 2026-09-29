@@ -1,0 +1,36 @@
+HERO_PART 013 H013_Part00 5095 7107 weights 7975
+HERO_PART 013 H013_Part01 44 80 weights 44
+HERO_PART 013 H013_Part02 44 80 weights 44
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\013\\SK_H013.fbx'
+(bpy.data.armatures['SK_H013'], 'POSE')
+(bpy.data.armatures['SK_H013'], 'POSE')
+(bpy.data.armatures['SK_H013'], 'POSE')
+export finished in 0.0512 sec.
+Info: Saved "H013.blend"
+HERO_CONVERTED 013 parts 3 bones 86 fbx 666940
+HERO_PART 100 H100_Part00 231 172 weights 495
+HERO_PART 100 H100_Part01 10 8 weights 10
+HERO_PART 100 H100_Part02 9551 13505 weights 16472
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\SK_H100.fbx'
+(bpy.data.armatures['SK_H100'], 'POSE')
+(bpy.data.armatures['SK_H100'], 'POSE')
+(bpy.data.armatures['SK_H100'], 'POSE')
+export finished in 0.1086 sec.
+Info: Saved "H100.blend"
+HERO_CONVERTED 100 parts 3 bones 195 fbx 1357356
+HERO_PART 101 H101_Part00 198 222 weights 198
+HERO_PART 101 H101_Part01 1601 1372 weights 1601
+HERO_PART 101 H101_Part02 2813 4232 weights 4690
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\101\\SK_H101.fbx'
+(bpy.data.armatures['SK_H101'], 'POSE')
+(bpy.data.armatures['SK_H101'], 'POSE')
+(bpy.data.armatures['SK_H101'], 'POSE')
+export finished in 0.0445 sec.
+Info: Saved "H101.blend"
+HERO_CONVERTED 101 parts 3 bones 83 fbx 594268
+Blender 4.3.1 (hash 33d812126174 built 2024-12-10 10:08:19)
+
+Blender quit

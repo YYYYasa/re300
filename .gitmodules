@@ -1,0 +1,6 @@
+[submodule "Tools/300ResourceBrowser"]
+	path = Tools/300ResourceBrowser
+	url = https://github.com/Anran-233/300ResourceBrowser.git
+[submodule "Tools/JumpXToolchain"]
+	path = Tools/JumpXToolchain
+	url = https://github.com/Gamepiaynmo/JumpXToolchain.git

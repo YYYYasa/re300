@@ -1,0 +1,28 @@
+Using bundled DotNet SDK version: 10.0 win-x64
+Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" EternalRebirthEditor Win64 Development -Project=G:\Code\UE\EternalRebirth\EternalRebirth.uproject -WaitMutex -NoHotReloadFromIDE
+Log file: C:\Users\Administrator\AppData\Local\UnrealBuildTool\Log.txt
+Determining max actions to execute in parallel (6 physical cores, 12 logical cores)
+  Executing up to 6 processes, one per physical core
+UbaServer - Listening on 0.0.0.0:1345
+Visual Studio toolchain version 14.38.33143 is not a preferred version. Please use a preferred toolchain such as 14.50.35717
+Building EternalRebirthEditor...
+===== Toolchain Information =====
+Using ISPC compiler (D:\Epic Games\UE_5.8\Engine\Source\ThirdParty\Intel\ISPC\bin\Windows\ispc.exe)
+  Intel(r) Implicit SPMD Program Compiler (Intel(r) ISPC), 1.24.0 (build commit  @ 20250404, LLVM 18.1.2) 
+Using Clang 20.1.8 compiler (G:\Code\UE\Tools\LLVM) with Visual Studio 14.38.33143 runtime (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Notice: Visual Studio runtime 14.38.33143 is not a preferred version
+=================================
+Using Unreal Build Accelerator local executor to run 4 action(s)
+  CPU 6 physical cores, 12 logical cores
+  Memory 31.81 GB physical, 27.78 GB/34.24 GB committed
+  UBA Storage capacity 40 GB
+[1/4] Compile [x64] RebirthExperience.cpp
+G:\Code\UE\EternalRebirth\Source\EternalRebirth\RebirthExperience.cpp(20,10): fatal error: 'Engine/SkeletalMeshActor.h' file not found
+   20 | #include "Engine/SkeletalMeshActor.h"
+      |          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1 error generated.
+Total time in Unreal Build Accelerator local executor: 6.99 seconds
+
+Result: Failed (OtherCompilationError)
+Total execution time: 8.47 seconds
+Trace written to file C:\Users\Administrator\AppData\Local\UnrealBuildTool\Trace.uba with size 4.8kb

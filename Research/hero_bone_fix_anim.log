@@ -1,0 +1,17 @@
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\013\\AN_H013_Idle.fbx'
+export finished in 0.1467 sec.
+HERO_ANIMATION 013 Idle bat_idle 51 874060
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\013\\AN_H013_Run.fbx'
+export finished in 0.1087 sec.
+HERO_ANIMATION 013 Run bat_run 25 699356
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\013\\AN_H013_Attack.fbx'
+export finished in 0.1485 sec.
+HERO_ANIMATION 013 Attack single_attack_attcom_a 46 850412
+Info: Saved "H013_Animated.blend"
+Blender 4.3.1 (hash 33d812126174 built 2024-12-10 10:08:19)
+Read blend: "G:\Code\UE\EternalRebirth\SourceArt\Heroes\013\H013.blend"
+
+Blender quit

@@ -1,0 +1,45 @@
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\013\\AN_H013_Idle.fbx'
+export finished in 0.1660 sec.
+HERO_ANIMATION 013 Idle bat_idle 51 873164
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\013\\AN_H013_Run.fbx'
+export finished in 0.1110 sec.
+HERO_ANIMATION 013 Run bat_run 25 699356
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\013\\AN_H013_Attack.fbx'
+export finished in 0.1517 sec.
+HERO_ANIMATION 013 Attack single_attack_attcom_a 46 851276
+Info: Saved "H013_Animated.blend"
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_Idle.fbx'
+export finished in 0.2560 sec.
+HERO_ANIMATION 100 Idle bat_idle 31 1669932
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_Run.fbx'
+export finished in 0.2469 sec.
+HERO_ANIMATION 100 Run bat_run 25 1560556
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\100\\AN_H100_Attack.fbx'
+export finished in 0.2915 sec.
+HERO_ANIMATION 100 Attack single_attack_attcom_1 46 1914716
+Info: Saved "H100_Animated.blend"
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\101\\AN_H101_Idle.fbx'
+export finished in 0.1689 sec.
+HERO_ANIMATION 101 Idle bat_idle 61 917116
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\101\\AN_H101_Run.fbx'
+export finished in 0.0949 sec.
+HERO_ANIMATION 101 Run bat_run 17 614252
+
+FBX export starting... 'G:\\Code\\UE\\EternalRebirth\\SourceArt\\Heroes\\101\\AN_H101_Attack.fbx'
+export finished in 0.1432 sec.
+HERO_ANIMATION 101 Attack single_attack_attcom_1 31 722364
+Info: Saved "H101_Animated.blend"
+Blender 4.3.1 (hash 33d812126174 built 2024-12-10 10:08:19)
+Read blend: "G:\Code\UE\EternalRebirth\SourceArt\Heroes\013\H013.blend"
+Read blend: "G:\Code\UE\EternalRebirth\SourceArt\Heroes\100\H100.blend"
+Read blend: "G:\Code\UE\EternalRebirth\SourceArt\Heroes\101\H101.blend"
+
+Blender quit

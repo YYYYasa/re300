@@ -1,0 +1,9 @@
+Blender 4.3.1 (hash 33d812126174 built 2024-12-10 10:08:19)
+Read blend: "G:\Code\UE\EternalRebirth\SourceArt\Heroes\013\H013_Animated.blend"
+Traceback (most recent call last):
+  File "G:\Code\UE\Tools\probe_hero_animation_blender.py", line 12, in <module>
+    action = bpy.data.actions['AN_H' + hero_id + '_Idle']
+             ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: 'bpy_prop_collection[key]: key "AN_H013_Idle" not found'
+
+Blender quit
