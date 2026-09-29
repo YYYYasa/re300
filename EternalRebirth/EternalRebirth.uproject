@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Showcase",
+  "Description": "300 Heroes: Eternal Rebirth — dual-rendering battlefield study",
+  "Modules": [{"Name": "EternalRebirth", "Type": "Runtime", "LoadingPhase": "Default"}],
+  "Plugins": [
+    {"Name": "PythonScriptPlugin", "Enabled": true},
+    {"Name": "EditorScriptingUtilities", "Enabled": true},
+    {"Name": "ModelingToolsEditorMode", "Enabled": true},
+    {"Name": "GeometryScripting", "Enabled": true}
+  ]
+}

@@ -1,0 +1,2316 @@
+{
+  "converted": [
+    "2005_bj_002.x",
+    "2005_bj_003.x",
+    "2005_bj_004.x",
+    "2005_bj_005.x",
+    "2005_bj_006.x",
+    "2005_CL_01.x",
+    "2005_CL_02_a.x",
+    "2005_CL_02_b.x",
+    "2005_CL_02_c.x",
+    "2005_CL_03_a.x",
+    "2005_CL_04_a.x",
+    "2005_CL_05_a.x",
+    "2005_CL_06_a.x",
+    "2005_CL_06_b.x",
+    "2005_CL_07_a.x",
+    "2005_CL_07_b.x",
+    "2005_CL_08_a.x",
+    "2005_CL_08_b.x",
+    "2005_CL_08_c.x",
+    "2005_CL_09_a.x",
+    "2005_CL_09_b.x",
+    "2005_CL_09_c.x",
+    "2005_CL_10_b.x",
+    "2005_CL_10_c.x",
+    "2005_CL_10_d.x",
+    "2005_CL_11.x",
+    "2005_CL_13.x",
+    "2005_CL_14_a.x",
+    "2005_CL_14_b.x",
+    "2005_CL_15_a.x",
+    "2005_CL_15_c.x",
+    "2005_CL_15b_00.x",
+    "2005_CL_15b_01.x",
+    "2005_CL_15b_02.x",
+    "2005_CL_15b_03.x",
+    "2005_CL_15b_04.x",
+    "2005_CL_15b_05.x",
+    "2005_CL_15b_06.x",
+    "2005_CL_15b_07.x",
+    "2005_CL_15b_08.x",
+    "2005_CL_15b_09.x",
+    "2005_CL_16_a.x",
+    "2005_CL_17_a.x",
+    "2005_CL_17_b.x",
+    "2005_CL_18_a.x",
+    "2005_CL_18_b.x",
+    "2005_CL_19_a.x",
+    "2005_CL_19_b.x",
+    "2005_CL_20.x",
+    "2005_CL_20_a.x",
+    "2005_CL_20_a001.x",
+    "2005_CL_20_b001.x",
+    "2005_CL_6_d.x",
+    "2005_CLB_01_a.x",
+    "2005_CLB_01_b.x",
+    "2005_CLB_01_c.x",
+    "2005_CLB_01_d.x",
+    "2005_CLB_01_e.x",
+    "2005_CLB_01_f.x",
+    "2005_CLB_01_h.x",
+    "2005_CLB_02_a.x",
+    "2005_CLB_02_b.x",
+    "2005_CLB_02_c.x",
+    "2005_CLB_02_d.x",
+    "2005_CLB_02_e.x",
+    "2005_CLB_03_a.x",
+    "2005_CLB_03_b.x",
+    "2005_CLB_03_c.x",
+    "2005_CLB_05.x",
+    "2005_CLB_05_a.x",
+    "2005_CLB_05_b.x",
+    "2005_CLB_05_c.x",
+    "2005_CLB_05_d.x",
+    "2005_CLB_05_e.x",
+    "2005_CLB_06_a.x",
+    "2005_CLB_06_b.x",
+    "2005_CLB_06_c.x",
+    "2005_CLB_06_d.x",
+    "2005_CLB_06A_a.x",
+    "2005_CLB_06A_b5.x",
+    "2005_CLB_06A_c.x",
+    "2005_CLB_06A_d.x",
+    "2005_CLB_07_a.x",
+    "2005_CLB_07_b.x",
+    "2005_CLB_07_c.x",
+    "2005_CLB_07A_a.x",
+    "2005_CLB_07A_b.x",
+    "2005_CLB_07A_c.x",
+    "2005_CLB_08_a.x",
+    "2005_CLB_08_b.x",
+    "2005_CLB_08_c.x",
+    "2005_CLB_08_d_c.x",
+    "2005_CLB_08_e.x",
+    "2005_CLB_08A_a.x",
+    "2005_CLB_08A_b.x",
+    "2005_CLB_08A_c.x",
+    "2005_CLB_08A_d.x",
+    "2005_CLB_08A_e.x",
+    "2005_CLS_01.x",
+    "2005_CLS_02.x",
+    "2005_CLS_03.x",
+    "2005_CLS_04.x",
+    "2005_CLS_05.x",
+    "2005_CLS_06_a.x",
+    "2005_CLS_06_b.x",
+    "2005_FT_01_a001.x",
+    "2005_FT_01_a.x",
+    "2005_FT_01_b2.x",
+    "2005_FT_01_b3.x",
+    "2005_FT_02_a.x",
+    "2005_FT_02_b2.x",
+    "2005_FT_02_c.x",
+    "2005_FT_02_d.x",
+    "2005_FT_02_e.x",
+    "2005_FT_03_a.x",
+    "2005_FT_03_b.x",
+    "2005_FT_03_c.x",
+    "2005_FT_04.x",
+    "2005_FT_04_a.x",
+    "2005_FT_05.x",
+    "2005_FT_06_a.x",
+    "2005_FT_06_b.x",
+    "2005_FT_07_a.x",
+    "2005_FT_07_b.x",
+    "2005_FT_08.x",
+    "2005_FT_08_a.x",
+    "2005_FT_09.x",
+    "2005_FT_10_a.x",
+    "2005_FT_10_b.x",
+    "2005_FT_11.x",
+    "2005_FT_12_a.x",
+    "2005_FT_12_b.x",
+    "2005_FT_12_c.x",
+    "2005_FT_12_d.x",
+    "2005_FT_13_a.x",
+    "2005_FT_13_b.x",
+    "2005_FT_14_a.x",
+    "2005_FT_14_b.x",
+    "2005_FT_15.x",
+    "2005_FT_16_a.x",
+    "2005_FT_16_b.x",
+    "2005_FT_17.x",
+    "2005_FTB_01.x",
+    "2005_FTB_02.x",
+    "2005_FTB_03.x",
+    "2005_FTB_034.x",
+    "2005_FTB_04.x",
+    "2005_FTB_05.x",
+    "2005_FTB_05_e.x",
+    "2005_FTB_06.x",
+    "2005_FTB_06e.x",
+    "2005_FTB_07.x",
+    "2005_FTB_07A.x",
+    "2005_FTB_07b.x",
+    "2005_FTB_08.x",
+    "2005_FTB_08A.x",
+    "2005_FTB_09.x",
+    "2005_FTB_10a.x",
+    "2005_FTB_10b.x",
+    "2005_FTB_11.x",
+    "2005_FTB_13.x",
+    "2005_FTB_14.x",
+    "2005_FTB_14a.x",
+    "2005_FTB_15.x",
+    "2005_FTB_15A.x",
+    "2005_FTB_17A.x",
+    "2005_FTB_17D.x",
+    "2005_FTB_17e.x",
+    "2005_FTB_18f.x",
+    "2005_FTB_19A.x",
+    "2005_FTB_19e.x",
+    "2005_FTB_9a.x",
+    "2005_FTC_04.x",
+    "2005_FTC_04A.x",
+    "2005_FTC_04B.x",
+    "2005_FTC_22f.x",
+    "2005_FTS_01.x",
+    "2005_FTS_010_a.x",
+    "2005_FTS_02.x",
+    "2005_FTS_03.x",
+    "2005_FTS_04.x",
+    "2005_FTS_05.x",
+    "2005_FTS_06.x",
+    "2005_FTS_07.x",
+    "2005_FTS_08.x",
+    "2005_FTS_08_b.x",
+    "2005_FTS_42A3.x",
+    "2005_gaodiwater01.x",
+    "2005_gaodiwater02.x",
+    "2005_gaodiwater03.x",
+    "2005_HD_005.x",
+    "2005_HD_02_a2.x",
+    "2005_HD_02_b.x",
+    "2005_HD_03.x",
+    "2005_HD_04.x",
+    "2005_HD_a.x",
+    "2005_HD_c.x",
+    "2005_hedaowater01.x",
+    "2005_hedaowater02.x",
+    "2005_sgrass01.x",
+    "2005_sgrass02.x",
+    "2005_sgrass03.x",
+    "2005_sgrass04.x",
+    "2005_sgrass05.x",
+    "2005_sgrass06.x",
+    "2005_sgrass07.x",
+    "2005_sgrass08.x",
+    "2005_sgrass09.x",
+    "2005_sgrass10.x",
+    "2005_sgrass11.x",
+    "2005_sgrass12.x",
+    "2005_sgrass13.x",
+    "2005_sgrass14.x",
+    "2005_sgrass15.x",
+    "2005_sgrass16.x",
+    "2005_sgrass17.x",
+    "2005_sgrass18.x",
+    "2005_sgrass19.x",
+    "2005_sgrass20.x",
+    "2005_sgrass21.x",
+    "2005_sgrass22.x",
+    "2005_sgrass23.x",
+    "2005_sgrass24.x",
+    "2005_sgrass25.x",
+    "2005_sgrass26.x",
+    "2005_sgrass27.x",
+    "2005_sgrass28.x",
+    "2005_sgrass29.x",
+    "2005_sgrass30.x",
+    "2005_sgrass31.x",
+    "2005_sgrass32.x",
+    "2005_sgrass33.x",
+    "2005_sgrass34.x",
+    "2005_sgrass35.x",
+    "2005_sgrass36.x",
+    "2005_sgrass37.x",
+    "2005_sgrass38.x",
+    "2005_sgrass39.x",
+    "2005_sgrass40.x",
+    "2005_sgrass41.x",
+    "2005_sgrass42.x",
+    "2005_sgrass43.x",
+    "2005_sgrass44.x",
+    "2005_sgrass45.x",
+    "2005_sgrass46.x",
+    "2005_sgrass47.x",
+    "2005_sgrass48.x",
+    "2005_sgrass49.x",
+    "2005_sgrass50.x",
+    "2005_sgrass51.x",
+    "2005_sgrass52.x",
+    "2005_sgrass53.x",
+    "2005_sgrass54.x",
+    "2005_sgrass55.x",
+    "2005_sgrass56.x",
+    "2005_sgrass57.x",
+    "2005_sgrass58.x",
+    "2005_sgrass59.x",
+    "2005_sgrass60.x",
+    "2005_sgrass61.x",
+    "2005_sterrain1_1.x",
+    "2005_sterrain1_2.x",
+    "2005_sterrain1_3.x",
+    "2005_sterrain1_4.x",
+    "2005_sterrain1_5.x",
+    "2005_sterrain1_6.x",
+    "2005_sterrain1_7.x",
+    "2005_sterrain1_8.x",
+    "2005_sterrain2_1.x",
+    "2005_sterrain2_2.x",
+    "2005_sterrain2_3.x",
+    "2005_sterrain2_4.x",
+    "2005_sterrain2_5.x",
+    "2005_sterrain2_6.x",
+    "2005_sterrain2_7.x",
+    "2005_sterrain2_8.x",
+    "2005_sterrain3_1.x",
+    "2005_sterrain3_2.x",
+    "2005_sterrain3_3.x",
+    "2005_sterrain3_4.x",
+    "2005_sterrain3_5.x",
+    "2005_sterrain3_6.x",
+    "2005_sterrain3_7.x",
+    "2005_sterrain3_8.x",
+    "2005_sterrain4_1.x",
+    "2005_sterrain4_2.x",
+    "2005_sterrain4_3.x",
+    "2005_sterrain4_4.x",
+    "2005_sterrain4_5.x",
+    "2005_sterrain4_6.x",
+    "2005_sterrain4_7.x",
+    "2005_sterrain4_8.x",
+    "2005_sterrain5_1.x",
+    "2005_sterrain5_2.x",
+    "2005_sterrain5_3.x",
+    "2005_sterrain5_4.x",
+    "2005_sterrain5_5.x",
+    "2005_sterrain5_6.x",
+    "2005_sterrain5_7.x",
+    "2005_sterrain5_8.x",
+    "2005_sterrain6_1.x",
+    "2005_sterrain6_2.x",
+    "2005_sterrain6_3.x",
+    "2005_sterrain6_4.x",
+    "2005_sterrain6_5.x",
+    "2005_sterrain6_6.x",
+    "2005_sterrain6_7.x",
+    "2005_sterrain6_8.x",
+    "2005_sterrain7_1.x",
+    "2005_sterrain7_2.x",
+    "2005_sterrain7_3.x",
+    "2005_sterrain7_4.x",
+    "2005_sterrain7_5.x",
+    "2005_sterrain7_6.x",
+    "2005_sterrain7_7.x",
+    "2005_sterrain7_8.x",
+    "2005_sterrain8_1.x",
+    "2005_sterrain8_2.x",
+    "2005_sterrain8_3.x",
+    "2005_sterrain8_4.x",
+    "2005_sterrain8_5.x",
+    "2005_sterrain8_6.x",
+    "2005_sterrain8_7.x",
+    "2005_sterrain8_8.x"
+  ],
+  "excluded_helpers": [
+    "floor01.x",
+    "floor02.x",
+    "floor03.x",
+    "floor04.x",
+    "floor05.x",
+    "floor06.x",
+    "floor07.x",
+    "floor08.x",
+    "floor09.x",
+    "floor10.x",
+    "floor11.x",
+    "floor12.x",
+    "floor13.x",
+    "floor14.x",
+    "floor15.x",
+    "floor16.x",
+    "floor17.x",
+    "floor18.x",
+    "floor19.x",
+    "floor20.x",
+    "floor21.x",
+    "floor22.x",
+    "floor23.x",
+    "floor24.x",
+    "floor25.x",
+    "floor26.x",
+    "floor27.x",
+    "floor28.x",
+    "floor29.x",
+    "floor30.x",
+    "floor31.x",
+    "floor32.x",
+    "floor33.x",
+    "floor34.x",
+    "floor35.x",
+    "floor36.x",
+    "floor37.x",
+    "floor38.x",
+    "floor39.x",
+    "floor40.x",
+    "floor41.x",
+    "floor42.x",
+    "floor43.x",
+    "floor44.x",
+    "floor45.x",
+    "floor46.x",
+    "floor47.x",
+    "floor48.x",
+    "floor49.x",
+    "floor50.x",
+    "floor51.x",
+    "floor52.x",
+    "floor53.x",
+    "floor54.x",
+    "floor55.x",
+    "floor56.x",
+    "floor57.x",
+    "floor58.x",
+    "floor59.x",
+    "floor60.x",
+    "floor61.x",
+    "floor62.x",
+    "floor63.x",
+    "floor64.x"
+  ],
+  "missing": [],
+  "textures": {
+    "stex_bj_002": {
+      "file": "T_stex_bj_002.png",
+      "original": "stex_bj_002.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_bj_003": {
+      "file": "T_stex_bj_003.png",
+      "original": "stex_bj_003.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_bj_004": {
+      "file": "T_stex_bj_004.png",
+      "original": "stex_bj_004.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_bj_005": {
+      "file": "T_stex_bj_005.png",
+      "original": "stex_bj_005.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_01": {
+      "file": "T_stex_cl_01.png",
+      "original": "stex_CL_01.tga",
+      "masked": false,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    "stex_cl_02_a": {
+      "file": "T_stex_cl_02_a.png",
+      "original": "stex_CL_02_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_02_b": {
+      "file": "T_stex_cl_02_b.png",
+      "original": "stex_CL_02_b.tga",
+      "masked": false,
+      "size": [
+        256,
+        128
+      ]
+    },
+    "stex_cl_02_c": {
+      "file": "T_stex_cl_02_c.png",
+      "original": "stex_CL_02_c.tga",
+      "masked": false,
+      "size": [
+        128,
+        128
+      ]
+    },
+    "stex_cl_03_a": {
+      "file": "T_stex_cl_03_a.png",
+      "original": "stex_CL_03_a.tga",
+      "masked": false,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    "stex_cl_04_a": {
+      "file": "T_stex_cl_04_a.png",
+      "original": "stex_CL_04_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_05_a": {
+      "file": "T_stex_cl_05_a.png",
+      "original": "stex_CL_05_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_06_a": {
+      "file": "T_stex_cl_06_a.png",
+      "original": "stex_CL_06_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_06_b": {
+      "file": "T_stex_cl_06_b.png",
+      "original": "stex_CL_06_b.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_07_a": {
+      "file": "T_stex_cl_07_a.png",
+      "original": "stex_CL_07_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_07_b": {
+      "file": "T_stex_cl_07_b.png",
+      "original": "stex_CL_07_b.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_08_a": {
+      "file": "T_stex_cl_08_a.png",
+      "original": "stex_CL_08_a.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_08_b": {
+      "file": "T_stex_cl_08_b.png",
+      "original": "stex_CL_08_b.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_08_c": {
+      "file": "T_stex_cl_08_c.png",
+      "original": "stex_CL_08_c.tga",
+      "masked": false,
+      "size": [
+        256,
+        128
+      ]
+    },
+    "stex_cl_09_a": {
+      "file": "T_stex_cl_09_a.png",
+      "original": "stex_CL_09_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_09_b": {
+      "file": "T_stex_cl_09_b.png",
+      "original": "stex_CL_09_b.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_09_c": {
+      "file": "T_stex_cl_09_c.png",
+      "original": "stex_CL_09_c.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_10_a": {
+      "file": "T_stex_cl_10_a.png",
+      "original": "stex_CL_10_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_10_b": {
+      "file": "T_stex_cl_10_b.png",
+      "original": "stex_CL_10_b.tga",
+      "masked": true,
+      "size": [
+        256,
+        256
+      ]
+    },
+    "stex_cl_11": {
+      "file": "T_stex_cl_11.png",
+      "original": "stex_CL_11.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_13": {
+      "file": "T_stex_cl_13.png",
+      "original": "stex_CL_13.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_14_a": {
+      "file": "T_stex_cl_14_a.png",
+      "original": "stex_CL_14_a.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_14_b": {
+      "file": "T_stex_cl_14_b.png",
+      "original": "stex_CL_14_b.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_15_a": {
+      "file": "T_stex_cl_15_a.png",
+      "original": "stex_CL_15_a.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_15_c": {
+      "file": "T_stex_cl_15_c.png",
+      "original": "stex_CL_15_c.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_15_b": {
+      "file": "T_stex_cl_15_b.png",
+      "original": "stex_CL_15_b.tga",
+      "masked": true,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_16_a": {
+      "file": "T_stex_cl_16_a.png",
+      "original": "stex_CL_16_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_17_a": {
+      "file": "T_stex_cl_17_a.png",
+      "original": "stex_CL_17_a.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_17_b": {
+      "file": "T_stex_cl_17_b.png",
+      "original": "stex_CL_17_b.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_18_a": {
+      "file": "T_stex_cl_18_a.png",
+      "original": "stex_CL_18_a.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_18_b": {
+      "file": "T_stex_cl_18_b.png",
+      "original": "stex_CL_18_b.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_19_a": {
+      "file": "T_stex_cl_19_a.png",
+      "original": "stex_CL_19_a.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_19_b": {
+      "file": "T_stex_cl_19_b.png",
+      "original": "stex_CL_19_b.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_cl_20": {
+      "file": "T_stex_cl_20.png",
+      "original": "stex_CL_20.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_20_a": {
+      "file": "T_stex_cl_20_a.png",
+      "original": "stex_CL_20_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_01_a": {
+      "file": "T_stex_clb_01_a.png",
+      "original": "stex_CLB_01_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_01_b": {
+      "file": "T_stex_clb_01_b.png",
+      "original": "stex_CLB_01_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_01_c": {
+      "file": "T_stex_clb_01_c.png",
+      "original": "stex_CLB_01_c.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_01_d": {
+      "file": "T_stex_clb_01_d.png",
+      "original": "stex_CLB_01_d.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_01_e": {
+      "file": "T_stex_clb_01_e.png",
+      "original": "stex_CLB_01_e.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_01_f": {
+      "file": "T_stex_clb_01_f.png",
+      "original": "stex_CLB_01_f.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_08": {
+      "file": "T_stex_clb_08.png",
+      "original": "stex_CLB_08.tga",
+      "masked": true,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_clb_02_a": {
+      "file": "T_stex_clb_02_a.png",
+      "original": "stex_CLB_02_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_02_b": {
+      "file": "T_stex_clb_02_b.png",
+      "original": "stex_CLB_02_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_02_d": {
+      "file": "T_stex_clb_02_d.png",
+      "original": "stex_CLB_02_d.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_02_e": {
+      "file": "T_stex_clb_02_e.png",
+      "original": "stex_CLB_02_e.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_3_4_a": {
+      "file": "T_stex_clb_3_4_a.png",
+      "original": "stex_CLB_3_4_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_3_4_b": {
+      "file": "T_stex_clb_3_4_b.png",
+      "original": "stex_CLB_3_4_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_05": {
+      "file": "T_stex_clb_05.png",
+      "original": "stex_CLB_05.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_05_b": {
+      "file": "T_stex_clb_05_b.png",
+      "original": "stex_CLB_05_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_05_c": {
+      "file": "T_stex_clb_05_c.png",
+      "original": "stex_CLB_05_c.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_05_d": {
+      "file": "T_stex_clb_05_d.png",
+      "original": "stex_CLB_05_d.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_05_a": {
+      "file": "T_stex_clb_05_a.png",
+      "original": "stex_CLB_05_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_06_a": {
+      "file": "T_stex_clb_06_a.png",
+      "original": "stex_CLB_06_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_06_b": {
+      "file": "T_stex_clb_06_b.png",
+      "original": "stex_CLB_06_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_06_c": {
+      "file": "T_stex_clb_06_c.png",
+      "original": "stex_CLB_06_c.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_06a_a": {
+      "file": "T_stex_clb_06a_a.png",
+      "original": "stex_CLB_06A_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_06a_b": {
+      "file": "T_stex_clb_06a_b.png",
+      "original": "stex_CLB_06A_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_06a_c": {
+      "file": "T_stex_clb_06a_c.png",
+      "original": "stex_CLB_06A_c.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_07_a": {
+      "file": "T_stex_clb_07_a.png",
+      "original": "stex_CLB_07_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_07_b": {
+      "file": "T_stex_clb_07_b.png",
+      "original": "stex_CLB_07_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_07a_a": {
+      "file": "T_stex_clb_07a_a.png",
+      "original": "stex_CLB_07A_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_07a_b": {
+      "file": "T_stex_clb_07a_b.png",
+      "original": "stex_CLB_07A_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_08_a": {
+      "file": "T_stex_clb_08_a.png",
+      "original": "stex_CLB_08_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_08_b": {
+      "file": "T_stex_clb_08_b.png",
+      "original": "stex_CLB_08_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_08_c": {
+      "file": "T_stex_clb_08_c.png",
+      "original": "stex_CLB_08_c.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_clb_08_d": {
+      "file": "T_stex_clb_08_d.png",
+      "original": "stex_CLB_08_d.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cls_01_a": {
+      "file": "T_stex_cls_01_a.png",
+      "original": "stex_CLS_01_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cls_02_a": {
+      "file": "T_stex_cls_02_a.png",
+      "original": "stex_CLS_02_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cls_03": {
+      "file": "T_stex_cls_03.png",
+      "original": "stex_CLS_03.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cls_04": {
+      "file": "T_stex_cls_04.png",
+      "original": "stex_CLS_04.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cls_05": {
+      "file": "T_stex_cls_05.png",
+      "original": "stex_CLS_05.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cls_06_a": {
+      "file": "T_stex_cls_06_a.png",
+      "original": "stex_CLS_06_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cls_06_b": {
+      "file": "T_stex_cls_06_b.png",
+      "original": "stex_CLS_06_b.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_ft_01_a": {
+      "file": "T_stex_ft_01_a.png",
+      "original": "stex_FT_01_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_01_b": {
+      "file": "T_stex_ft_01_b.png",
+      "original": "stex_FT_01_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_02_a": {
+      "file": "T_stex_ft_02_a.png",
+      "original": "stex_FT_02_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_02_b": {
+      "file": "T_stex_ft_02_b.png",
+      "original": "stex_FT_02_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_02_c": {
+      "file": "T_stex_ft_02_c.png",
+      "original": "stex_FT_02_c.tga",
+      "masked": false,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    "stex_ft_02_d": {
+      "file": "T_stex_ft_02_d.png",
+      "original": "stex_FT_02_d.tga",
+      "masked": true,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    "stex_ft_4": {
+      "file": "T_stex_ft_4.png",
+      "original": "stex_FT_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_04_a": {
+      "file": "T_stex_ft_04_a.png",
+      "original": "stex_FT_04_a.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_ft_05": {
+      "file": "T_stex_ft_05.png",
+      "original": "stex_FT_05.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_06_a": {
+      "file": "T_stex_ft_06_a.png",
+      "original": "stex_FT_06_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_06_b": {
+      "file": "T_stex_ft_06_b.png",
+      "original": "stex_FT_06_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_07_a": {
+      "file": "T_stex_ft_07_a.png",
+      "original": "stex_FT_07_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_07_b": {
+      "file": "T_stex_ft_07_b.png",
+      "original": "stex_FT_07_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    "stex_ft_08": {
+      "file": "T_stex_ft_08.png",
+      "original": "stex_FT_08.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_16_b": {
+      "file": "T_stex_ft_16_b.png",
+      "original": "stex_FT_16_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_10_a": {
+      "file": "T_stex_ft_10_a.png",
+      "original": "stex_FT_10_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_10_b": {
+      "file": "T_stex_ft_10_b.png",
+      "original": "stex_FT_10_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_11": {
+      "file": "T_stex_ft_11.png",
+      "original": "stex_FT_11.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_12_a": {
+      "file": "T_stex_ft_12_a.png",
+      "original": "stex_FT_12_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_12_b": {
+      "file": "T_stex_ft_12_b.png",
+      "original": "stex_FT_12_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_12_c": {
+      "file": "T_stex_ft_12_c.png",
+      "original": "stex_FT_12_c.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_12_d": {
+      "file": "T_stex_ft_12_d.png",
+      "original": "stex_FT_12_d.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_13_a": {
+      "file": "T_stex_ft_13_a.png",
+      "original": "stex_FT_13_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_13_b": {
+      "file": "T_stex_ft_13_b.png",
+      "original": "stex_FT_13_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_14_a": {
+      "file": "T_stex_ft_14_a.png",
+      "original": "stex_FT_14_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_14_b": {
+      "file": "T_stex_ft_14_b.png",
+      "original": "stex_FT_14_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    "stex_ft_15": {
+      "file": "T_stex_ft_15.png",
+      "original": "stex_FT_15.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_16_a": {
+      "file": "T_stex_ft_16_a.png",
+      "original": "stex_FT_16_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ft_17": {
+      "file": "T_stex_ft_17.png",
+      "original": "stex_FT_17.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_1": {
+      "file": "T_stex_ftb_1.png",
+      "original": "stex_FTB_1.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_2": {
+      "file": "T_stex_ftb_2.png",
+      "original": "stex_FTB_2.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_3": {
+      "file": "T_stex_ftb_3.png",
+      "original": "stex_FTB_3.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_13": {
+      "file": "T_stex_ftb_13.png",
+      "original": "stex_FTB_13.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_ftb_4": {
+      "file": "T_stex_ftb_4.png",
+      "original": "stex_FTB_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_5": {
+      "file": "T_stex_ftb_5.png",
+      "original": "stex_FTB_5.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_6": {
+      "file": "T_stex_ftb_6.png",
+      "original": "stex_FTB_6.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_7": {
+      "file": "T_stex_ftb_7.png",
+      "original": "stex_FTB_7.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_8": {
+      "file": "T_stex_ftb_8.png",
+      "original": "stex_FTB_8.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_9": {
+      "file": "T_stex_ftb_9.png",
+      "original": "stex_FTB_9.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_10": {
+      "file": "T_stex_ftb_10.png",
+      "original": "stex_FTB_10.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_12": {
+      "file": "T_stex_ftb_12.png",
+      "original": "stex_FTB_12.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_11": {
+      "file": "T_stex_ftb_11.png",
+      "original": "stex_FTB_11.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_14a": {
+      "file": "T_stex_ftb_14a.png",
+      "original": "stex_FTB_14A.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_14": {
+      "file": "T_stex_ftb_14.png",
+      "original": "stex_FTB_14.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_15": {
+      "file": "T_stex_ftb_15.png",
+      "original": "stex_FTB_15.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_15a": {
+      "file": "T_stex_ftb_15a.png",
+      "original": "stex_FTB_15A.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_17a": {
+      "file": "T_stex_ftb_17a.png",
+      "original": "stex_FTB_17A.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_19a": {
+      "file": "T_stex_ftb_19a.png",
+      "original": "stex_FTB_19A.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftb_19": {
+      "file": "T_stex_ftb_19.png",
+      "original": "stex_FTB_19.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftc_04": {
+      "file": "T_stex_ftc_04.png",
+      "original": "stex_FTC_04.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftc_04a": {
+      "file": "T_stex_ftc_04a.png",
+      "original": "stex_FTC_04A.tga",
+      "masked": false,
+      "size": [
+        2048,
+        2048
+      ]
+    },
+    "stex_ftc_04b": {
+      "file": "T_stex_ftc_04b.png",
+      "original": "stex_FTC_04b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_ftc_22f": {
+      "file": "T_stex_ftc_22f.png",
+      "original": "stex_FTC_22f.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_fts_01": {
+      "file": "T_stex_fts_01.png",
+      "original": "stex_FTS_01.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_fts_10": {
+      "file": "T_stex_fts_10.png",
+      "original": "stex_FTS_10.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_fts_02": {
+      "file": "T_stex_fts_02.png",
+      "original": "stex_FTS_02.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_fts_03": {
+      "file": "T_stex_fts_03.png",
+      "original": "stex_FTS_03.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_fts_04": {
+      "file": "T_stex_fts_04.png",
+      "original": "stex_FTS_04.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_fts_05": {
+      "file": "T_stex_fts_05.png",
+      "original": "stex_FTS_05.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_fts_06": {
+      "file": "T_stex_fts_06.png",
+      "original": "stex_FTS_06.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_fts_07": {
+      "file": "T_stex_fts_07.png",
+      "original": "stex_FTS_07.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_fts_08": {
+      "file": "T_stex_fts_08.png",
+      "original": "stex_FTS_08.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_maphero": {
+      "file": "T_stex_maphero.png",
+      "original": "stex_maphero.tga",
+      "masked": false,
+      "size": [
+        512,
+        512
+      ]
+    },
+    "stex_hd_04": {
+      "file": "T_stex_hd_04.png",
+      "original": "stex_HD_04.tga",
+      "masked": false,
+      "size": [
+        1024,
+        512
+      ]
+    },
+    "stex_hd_02_b": {
+      "file": "T_stex_hd_02_b.png",
+      "original": "stex_HD_02_b.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_hd_01_a": {
+      "file": "T_stex_hd_01_a.png",
+      "original": "stex_HD_01_a.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_hd_01_c": {
+      "file": "T_stex_hd_01_c.png",
+      "original": "stex_HD_01_c.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_cl_jnglingcao": {
+      "file": "T_stex_cl_jnglingcao.png",
+      "original": "stex_CL_jnglingcao.tga",
+      "masked": true,
+      "size": [
+        256,
+        256
+      ]
+    },
+    "stex_cl_cao": {
+      "file": "T_stex_cl_cao.png",
+      "original": "stex_CL_cao.tga",
+      "masked": true,
+      "size": [
+        256,
+        256
+      ]
+    },
+    "stex_sterrain1_1": {
+      "file": "T_stex_sterrain1_1.png",
+      "original": "stex_sterrain1_1.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain1_2": {
+      "file": "T_stex_sterrain1_2.png",
+      "original": "stex_sterrain1_2.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain1_3": {
+      "file": "T_stex_sterrain1_3.png",
+      "original": "stex_sterrain1_3.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain1_4": {
+      "file": "T_stex_sterrain1_4.png",
+      "original": "stex_sterrain1_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain1_5": {
+      "file": "T_stex_sterrain1_5.png",
+      "original": "stex_sterrain1_5.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain1_6": {
+      "file": "T_stex_sterrain1_6.png",
+      "original": "stex_sterrain1_6.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain1_7": {
+      "file": "T_stex_sterrain1_7.png",
+      "original": "stex_sterrain1_7.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain1_8": {
+      "file": "T_stex_sterrain1_8.png",
+      "original": "stex_sterrain1_8.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain2_1": {
+      "file": "T_stex_sterrain2_1.png",
+      "original": "stex_sterrain2_1.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain2_2": {
+      "file": "T_stex_sterrain2_2.png",
+      "original": "stex_sterrain2_2.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain2_3": {
+      "file": "T_stex_sterrain2_3.png",
+      "original": "stex_sterrain2_3.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain2_4": {
+      "file": "T_stex_sterrain2_4.png",
+      "original": "stex_sterrain2_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain2_5": {
+      "file": "T_stex_sterrain2_5.png",
+      "original": "stex_sterrain2_5.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain2_6": {
+      "file": "T_stex_sterrain2_6.png",
+      "original": "stex_sterrain2_6.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain2_7": {
+      "file": "T_stex_sterrain2_7.png",
+      "original": "stex_sterrain2_7.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain2_8": {
+      "file": "T_stex_sterrain2_8.png",
+      "original": "stex_sterrain2_8.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain3_1": {
+      "file": "T_stex_sterrain3_1.png",
+      "original": "stex_sterrain3_1.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain3_2": {
+      "file": "T_stex_sterrain3_2.png",
+      "original": "stex_sterrain3_2.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain3_3": {
+      "file": "T_stex_sterrain3_3.png",
+      "original": "stex_sterrain3_3.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain3_4": {
+      "file": "T_stex_sterrain3_4.png",
+      "original": "stex_sterrain3_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain3_5": {
+      "file": "T_stex_sterrain3_5.png",
+      "original": "stex_sterrain3_5.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain3_6": {
+      "file": "T_stex_sterrain3_6.png",
+      "original": "stex_sterrain3_6.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain3_7": {
+      "file": "T_stex_sterrain3_7.png",
+      "original": "stex_sterrain3_7.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain3_8": {
+      "file": "T_stex_sterrain3_8.png",
+      "original": "stex_sterrain3_8.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain4_1": {
+      "file": "T_stex_sterrain4_1.png",
+      "original": "stex_sterrain4_1.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain4_2": {
+      "file": "T_stex_sterrain4_2.png",
+      "original": "stex_sterrain4_2.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain4_3": {
+      "file": "T_stex_sterrain4_3.png",
+      "original": "stex_sterrain4_3.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain4_4": {
+      "file": "T_stex_sterrain4_4.png",
+      "original": "stex_sterrain4_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain4_5": {
+      "file": "T_stex_sterrain4_5.png",
+      "original": "stex_sterrain4_5.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain4_6": {
+      "file": "T_stex_sterrain4_6.png",
+      "original": "stex_sterrain4_6.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain4_7": {
+      "file": "T_stex_sterrain4_7.png",
+      "original": "stex_sterrain4_7.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain4_8": {
+      "file": "T_stex_sterrain4_8.png",
+      "original": "stex_sterrain4_8.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain5_1": {
+      "file": "T_stex_sterrain5_1.png",
+      "original": "stex_sterrain5_1.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain5_2": {
+      "file": "T_stex_sterrain5_2.png",
+      "original": "stex_sterrain5_2.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain5_3": {
+      "file": "T_stex_sterrain5_3.png",
+      "original": "stex_sterrain5_3.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain5_4": {
+      "file": "T_stex_sterrain5_4.png",
+      "original": "stex_sterrain5_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain5_5": {
+      "file": "T_stex_sterrain5_5.png",
+      "original": "stex_sterrain5_5.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain5_6": {
+      "file": "T_stex_sterrain5_6.png",
+      "original": "stex_sterrain5_6.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain5_7": {
+      "file": "T_stex_sterrain5_7.png",
+      "original": "stex_sterrain5_7.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain5_8": {
+      "file": "T_stex_sterrain5_8.png",
+      "original": "stex_sterrain5_8.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain6_1": {
+      "file": "T_stex_sterrain6_1.png",
+      "original": "stex_sterrain6_1.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain6_2": {
+      "file": "T_stex_sterrain6_2.png",
+      "original": "stex_sterrain6_2.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain6_3": {
+      "file": "T_stex_sterrain6_3.png",
+      "original": "stex_sterrain6_3.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain6_4": {
+      "file": "T_stex_sterrain6_4.png",
+      "original": "stex_sterrain6_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain6_5": {
+      "file": "T_stex_sterrain6_5.png",
+      "original": "stex_sterrain6_5.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain6_6": {
+      "file": "T_stex_sterrain6_6.png",
+      "original": "stex_sterrain6_6.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain6_7": {
+      "file": "T_stex_sterrain6_7.png",
+      "original": "stex_sterrain6_7.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain6_8": {
+      "file": "T_stex_sterrain6_8.png",
+      "original": "stex_sterrain6_8.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain7_1": {
+      "file": "T_stex_sterrain7_1.png",
+      "original": "stex_sterrain7_1.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain7_2": {
+      "file": "T_stex_sterrain7_2.png",
+      "original": "stex_sterrain7_2.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain7_3": {
+      "file": "T_stex_sterrain7_3.png",
+      "original": "stex_sterrain7_3.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain7_4": {
+      "file": "T_stex_sterrain7_4.png",
+      "original": "stex_sterrain7_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain7_5": {
+      "file": "T_stex_sterrain7_5.png",
+      "original": "stex_sterrain7_5.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain7_6": {
+      "file": "T_stex_sterrain7_6.png",
+      "original": "stex_sterrain7_6.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain7_7": {
+      "file": "T_stex_sterrain7_7.png",
+      "original": "stex_sterrain7_7.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain7_8": {
+      "file": "T_stex_sterrain7_8.png",
+      "original": "stex_sterrain7_8.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain8_1": {
+      "file": "T_stex_sterrain8_1.png",
+      "original": "stex_sterrain8_1.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain8_2": {
+      "file": "T_stex_sterrain8_2.png",
+      "original": "stex_sterrain8_2.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain8_3": {
+      "file": "T_stex_sterrain8_3.png",
+      "original": "stex_sterrain8_3.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain8_4": {
+      "file": "T_stex_sterrain8_4.png",
+      "original": "stex_sterrain8_4.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain8_5": {
+      "file": "T_stex_sterrain8_5.png",
+      "original": "stex_sterrain8_5.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain8_6": {
+      "file": "T_stex_sterrain8_6.png",
+      "original": "stex_sterrain8_6.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain8_7": {
+      "file": "T_stex_sterrain8_7.png",
+      "original": "stex_sterrain8_7.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    "stex_sterrain8_8": {
+      "file": "T_stex_sterrain8_8.png",
+      "original": "stex_sterrain8_8.tga",
+      "masked": false,
+      "size": [
+        1024,
+        1024
+      ]
+    }
+  },
+  "origin": [
+    164,
+    164,
+    0
+  ],
+  "scale": 100,
+  "triangles": 371203,
+  "cells": 30,
+  "bounds": [
+    [
+      -14090.483616224537,
+      -8103.922377596882,
+      -4556.6112262768
+    ],
+    [
+      12827.795823409906,
+      14207.915424386192,
+      1986.1208052161146
+    ]
+  ]
+}

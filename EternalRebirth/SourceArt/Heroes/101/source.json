@@ -1,0 +1,198 @@
+{
+  "id": "101",
+  "source": "..\\data\\character\\roleaction\\101.x",
+  "version": 6,
+  "meshes": 9,
+  "triangles": 7464,
+  "bones": 83,
+  "actions": [
+    {
+      "name": "bat_idle",
+      "start": 230,
+      "end": 290
+    },
+    {
+      "name": "bat_idle2",
+      "start": 10,
+      "end": 70
+    },
+    {
+      "name": "bat_actionidle",
+      "start": 230,
+      "end": 290
+    },
+    {
+      "name": "bat_specialidle",
+      "start": 550,
+      "end": 670
+    },
+    {
+      "name": "bat_run",
+      "start": 530,
+      "end": 546
+    },
+    {
+      "name": "dead",
+      "start": 455,
+      "end": 525
+    },
+    {
+      "name": "single_idle",
+      "start": 230,
+      "end": 290
+    },
+    {
+      "name": "single_idle2",
+      "start": 10,
+      "end": 70
+    },
+    {
+      "name": "single_idle3",
+      "start": 230,
+      "end": 290
+    },
+    {
+      "name": "single_actionidle",
+      "start": 10,
+      "end": 70
+    },
+    {
+      "name": "single_specialidle",
+      "start": 550,
+      "end": 670
+    },
+    {
+      "name": "single_run",
+      "start": 530,
+      "end": 546
+    },
+    {
+      "name": "single_attack_attcom_1",
+      "start": 835,
+      "end": 865
+    },
+    {
+      "name": "single_attack_attcom_2",
+      "start": 835,
+      "end": 865
+    },
+    {
+      "name": "single_attack_attcom_b_1",
+      "start": 908,
+      "end": 938
+    },
+    {
+      "name": "single_attack_attcom_b_2",
+      "start": 978,
+      "end": 1008
+    },
+    {
+      "name": "single_skill_01a",
+      "start": 350,
+      "end": 380
+    },
+    {
+      "name": "single_skill_01b",
+      "start": 380,
+      "end": 410
+    },
+    {
+      "name": "single_skill_01c",
+      "start": 180,
+      "end": 225
+    },
+    {
+      "name": "single_skill_03a",
+      "start": 420,
+      "end": 450
+    },
+    {
+      "name": "single_skill_03b",
+      "start": 3,
+      "end": 3
+    },
+    {
+      "name": "single_skill_04",
+      "start": 705,
+      "end": 755
+    },
+    {
+      "name": "single_touzhi_1",
+      "start": 350,
+      "end": 380
+    },
+    {
+      "name": "single_touzhi_2",
+      "start": 380,
+      "end": 410
+    },
+    {
+      "name": "single_chuansong",
+      "start": 760,
+      "end": 820
+    },
+    {
+      "name": "bingdong",
+      "start": 0,
+      "end": 0
+    }
+  ],
+  "textures": {
+    "tx_yanwu_1002.tga": {
+      "file": "tx_yanwu_1002.png",
+      "source": "..\\data\\magic\\textures\\yanwu\\tx_yanwu_1002.dds",
+      "masked": true
+    },
+    "tx_yanwu_1016.tga": {
+      "file": "tx_yanwu_1016.png",
+      "source": "..\\data\\magic\\textures\\yanwu\\tx_yanwu_1016.dds",
+      "masked": true
+    },
+    "tx_xulie_1025.tga": {
+      "file": "tx_xulie_1025.png",
+      "source": "..\\data\\magic\\textures\\xulie\\tx_xulie_1025.dds",
+      "masked": true
+    },
+    "tx_dian_0077.tga": {
+      "file": "tx_dian_0077.png",
+      "source": "..\\data\\magic\\textures\\dian\\tx_dian_0077.dds",
+      "masked": true
+    },
+    "tx_xingguang_0039.tga": {
+      "file": "tx_xingguang_0039.png",
+      "source": "..\\data\\magic\\textures\\xingguang\\tx_xingguang_0039.dds",
+      "masked": true
+    },
+    "101.tga": {
+      "file": "101.png",
+      "source": "..\\data\\character\\roleaction\\101.dds",
+      "masked": false
+    },
+    "tx_dian_0069.tga": {
+      "file": "tx_dian_0069.png",
+      "source": "..\\data\\magic\\textures\\dian\\tx_dian_0069.dds",
+      "masked": true
+    },
+    "101_a.tga": {
+      "file": "101_a.png",
+      "source": "..\\data\\character\\roleaction\\101_a.dds",
+      "masked": false
+    },
+    "tx_tuxing_0044.tga": {
+      "file": "tx_tuxing_0044.png",
+      "source": "..\\data\\magic\\textures\\tuxing\\tx_tuxing_0044.dds",
+      "masked": true
+    },
+    "tx_tiaodai_0146.TGA": {
+      "file": "tx_tiaodai_0146.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_0146.dds",
+      "masked": true
+    },
+    "tx_tiaodai_1001.tga": {
+      "file": "tx_tiaodai_1001.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_1001.dds",
+      "masked": true
+    }
+  },
+  "missing_textures": []
+}

@@ -1,0 +1,218 @@
+{
+  "id": "013",
+  "source": "..\\data\\character\\roleaction\\013.x",
+  "version": 8,
+  "meshes": 12,
+  "triangles": 8007,
+  "bones": 86,
+  "actions": [
+    {
+      "name": "bat_idle",
+      "start": 0,
+      "end": 50
+    },
+    {
+      "name": "bat_specialidle",
+      "start": 1234,
+      "end": 1331
+    },
+    {
+      "name": "bat_run",
+      "start": 54,
+      "end": 78
+    },
+    {
+      "name": "single_run",
+      "start": 82,
+      "end": 98
+    },
+    {
+      "name": "dead",
+      "start": 102,
+      "end": 180
+    },
+    {
+      "name": "relive",
+      "start": 208,
+      "end": 260
+    },
+    {
+      "name": "dance",
+      "start": 1335,
+      "end": 1464
+    },
+    {
+      "name": "single_chuansong",
+      "start": 184,
+      "end": 204
+    },
+    {
+      "name": "single_touzhi_1",
+      "start": 292,
+      "end": 312
+    },
+    {
+      "name": "single_touzhi_2",
+      "start": 264,
+      "end": 288
+    },
+    {
+      "name": "single_attack_attcom_a",
+      "start": 316,
+      "end": 361
+    },
+    {
+      "name": "single_attack_attcom_b",
+      "start": 365,
+      "end": 410
+    },
+    {
+      "name": "single_attack_attcom_c",
+      "start": 414,
+      "end": 459
+    },
+    {
+      "name": "single_skill_01",
+      "start": 1468,
+      "end": 1514
+    },
+    {
+      "name": "single_skill_01_keep",
+      "start": 512,
+      "end": 532
+    },
+    {
+      "name": "single_skill_01_end",
+      "start": 536,
+      "end": 566
+    },
+    {
+      "name": "single_skill_01_end2",
+      "start": 1518,
+      "end": 1560
+    },
+    {
+      "name": "single_skill_01_a",
+      "start": 570,
+      "end": 600
+    },
+    {
+      "name": "single_skill_01_b",
+      "start": 604,
+      "end": 634
+    },
+    {
+      "name": "single_skill_01_c",
+      "start": 638,
+      "end": 668
+    },
+    {
+      "name": "single_skill_01_d",
+      "start": 672,
+      "end": 702
+    },
+    {
+      "name": "single_skill_02",
+      "start": 1564,
+      "end": 1618
+    },
+    {
+      "name": "single_skill_02_keep",
+      "start": 755,
+      "end": 779
+    },
+    {
+      "name": "single_skill_02_end",
+      "start": 783,
+      "end": 801
+    },
+    {
+      "name": "single_skill_03",
+      "start": 805,
+      "end": 835
+    },
+    {
+      "name": "single_skill_03_combo",
+      "start": 839,
+      "end": 884
+    },
+    {
+      "name": "single_skill_04",
+      "start": 888,
+      "end": 988
+    },
+    {
+      "name": "single_skill_04_end",
+      "start": 992,
+      "end": 1052
+    },
+    {
+      "name": "single_skill_05",
+      "start": 1056,
+      "end": 1101
+    },
+    {
+      "name": "single_skill_06",
+      "start": 1105,
+      "end": 1230
+    },
+    {
+      "name": "bingdong",
+      "start": 0,
+      "end": 0
+    }
+  ],
+  "textures": {
+    "013.dds": {
+      "file": "013.png",
+      "source": "..\\data\\character\\roleaction\\013.dds",
+      "masked": false
+    },
+    "tx_tiaodai_13001.tga": {
+      "file": "tx_tiaodai_13001.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_13001.dds",
+      "masked": true
+    },
+    "tx_tuxing_0198.dds": {
+      "file": "tx_tuxing_0198.png",
+      "source": "..\\data\\magic\\textures\\tuxing\\tx_tuxing_0198.dds",
+      "masked": true
+    },
+    "tx_tiaodai_5001.dds": {
+      "file": "tx_tiaodai_5001.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_5001.dds",
+      "masked": true
+    },
+    "tx_tuxing_7000.tga": {
+      "file": "tx_tuxing_7000.png",
+      "source": "..\\data\\magic\\textures\\tuxing\\tx_tuxing_7000.dds",
+      "masked": true
+    },
+    "tx_tiaodai_3030.dds": {
+      "file": "tx_tiaodai_3030.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_3030.dds",
+      "masked": true
+    },
+    "tx_dian_0006.dds": {
+      "file": "tx_dian_0006.png",
+      "source": "..\\data\\magic\\textures\\dian\\tx_dian_0006.dds",
+      "masked": true
+    },
+    "tx_tiaodai_2031.dds": {
+      "file": "tx_tiaodai_2031.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_2031.dds",
+      "masked": true
+    },
+    "tx_tiaodai_1001.dds": {
+      "file": "tx_tiaodai_1001.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_1001.dds",
+      "masked": true
+    },
+    "tx_tiaodai_19009.dds": {
+      "file": "tx_tiaodai_19009.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_19009.dds",
+      "masked": true
+    }
+  },
+  "missing_textures": []
+}

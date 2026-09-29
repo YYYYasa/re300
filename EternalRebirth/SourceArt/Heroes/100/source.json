@@ -1,0 +1,113 @@
+{
+  "id": "100",
+  "source": "..\\data\\character\\roleaction\\100.x",
+  "version": 8,
+  "meshes": 3,
+  "triangles": 13685,
+  "bones": 195,
+  "actions": [
+    {
+      "name": "bat_idle",
+      "start": 5,
+      "end": 35
+    },
+    {
+      "name": "bat_actionidle",
+      "start": 5,
+      "end": 35
+    },
+    {
+      "name": "bat_specialidle",
+      "start": 270,
+      "end": 348
+    },
+    {
+      "name": "bat_run",
+      "start": 230,
+      "end": 254
+    },
+    {
+      "name": "dead",
+      "start": 483,
+      "end": 526
+    },
+    {
+      "name": "single_idle",
+      "start": 5,
+      "end": 35
+    },
+    {
+      "name": "single_actionidle",
+      "start": 5,
+      "end": 45
+    },
+    {
+      "name": "single_specialidle",
+      "start": 270,
+      "end": 348
+    },
+    {
+      "name": "single_run",
+      "start": 458,
+      "end": 478
+    },
+    {
+      "name": "single_attack_attcom_1",
+      "start": 50,
+      "end": 95
+    },
+    {
+      "name": "single_attack_attcom_2",
+      "start": 100,
+      "end": 145
+    },
+    {
+      "name": "single_skill_01",
+      "start": 50,
+      "end": 95
+    },
+    {
+      "name": "single_skill_02",
+      "start": 150,
+      "end": 170
+    },
+    {
+      "name": "single_skill_03",
+      "start": 100,
+      "end": 145
+    },
+    {
+      "name": "single_skill_04",
+      "start": 180,
+      "end": 225
+    },
+    {
+      "name": "single_touzhi_1",
+      "start": 400,
+      "end": 420
+    },
+    {
+      "name": "single_touzhi_2",
+      "start": 421,
+      "end": 455
+    },
+    {
+      "name": "single_chuansong",
+      "start": 150,
+      "end": 170
+    },
+    {
+      "name": "bingdong",
+      "start": 0,
+      "end": 0
+    }
+  ],
+  "textures": {
+    "100.tga": {
+      "file": "100.png",
+      "source": "..\\data\\character\\roleaction\\100.dds",
+      "masked": false
+    }
+  },
+  "missing_textures": []
+}

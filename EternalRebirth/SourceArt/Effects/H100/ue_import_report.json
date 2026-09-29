@@ -1,0 +1,13 @@
+{
+  "effect_sources": 17,
+  "static_meshes": 13,
+  "textures": 32,
+  "ui_images": 5,
+  "particle_only_sources": [
+    "tx_100_s01_2_01",
+    "tx_100_s01_4_01",
+    "tx_100_s05_4_01",
+    "tx_100_s06_4_01"
+  ],
+  "source_config_files": 25
+}

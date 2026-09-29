@@ -1,0 +1,678 @@
+{
+  "hero": "H100",
+  "source_effects": [
+    {
+      "name": "tx_100_s01_2_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s01_putonggongji/fire/tx_100_s01_2_01.x",
+      "file": "Raw/s01_putonggongji/fire/tx_100_s01_2_01.x",
+      "meshes": 0,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_shandian_4007.TGA",
+        "tx_dian_0069.tga",
+        "tx_shandian_3000.tga"
+      ]
+    },
+    {
+      "name": "tx_100_s01_4_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s01_putonggongji/hit/tx_100_s01_4_01.x",
+      "file": "Raw/s01_putonggongji/hit/tx_100_s01_4_01.x",
+      "meshes": 0,
+      "bones": 2,
+      "actions": [],
+      "textures": [
+        "tx_xulie_0005.dds",
+        "tx_kuosan_0030.tga",
+        "tx_dian_0047.tga",
+        "tx_xulie_0009.tga",
+        "tx_xulie_0034.tga"
+      ]
+    },
+    {
+      "name": "tx_100_s01_3_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s01_putonggongji/trace/tx_100_s01_3_01.x",
+      "file": "Raw/s01_putonggongji/trace/tx_100_s01_3_01.x",
+      "meshes": 4,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_tuxing_1254.tga",
+        "tx_tuxing_1253.tga"
+      ],
+      "fbx": "Meshes/SM_tx_100_s01_3_01.fbx",
+      "material_slots": [
+        "tx_tuxing_1253",
+        "tx_tuxing_1254",
+        "tx_tuxing_1253",
+        "tx_tuxing_1254"
+      ]
+    },
+    {
+      "name": "tx_100_s03_3_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s03_yaoguai/trece/tx_100_s03_3_01.x",
+      "file": "Raw/s03_yaoguai/trece/tx_100_s03_3_01.x",
+      "meshes": 4,
+      "bones": 2,
+      "actions": [
+        {
+          "name": "idle",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "name": "dead",
+          "start": 10,
+          "end": 40
+        }
+      ],
+      "textures": [
+        "tx_tiaodai_0149.TGA",
+        "tx_tuxing_1253.tga",
+        "tx_tuxing_1254.tga",
+        "tx_xingguang_1013.tga"
+      ],
+      "fbx": "Meshes/SM_tx_100_s03_3_01.fbx",
+      "material_slots": [
+        "tx_tuxing_1254",
+        "tx_tuxing_1254",
+        "tx_tuxing_1253",
+        "tx_tuxing_1253"
+      ]
+    },
+    {
+      "name": "tx_100_s04_5_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s04_bafangzhen/keep/tx_100_s04_5_01.x",
+      "file": "Raw/s04_bafangzhen/keep/tx_100_s04_5_01.x",
+      "meshes": 9,
+      "bones": 3,
+      "actions": [
+        {
+          "name": "idle",
+          "start": 0,
+          "end": 135
+        }
+      ],
+      "textures": [
+        "tx_dian_0069.tga",
+        "tx_tuxing_1061.tga",
+        "tx_kuosan_1027.tga",
+        "tx_tiaodai_1006.tga",
+        "tx_tiaodai_1088.tga",
+        "tx_tiaodai_0130.tga",
+        "tx_xingguang_1013.tga",
+        "tx_kuosan_1022.tga",
+        "tx_kuosan_0071.tga",
+        "tx_xuanzhuan_1015.tga",
+        "tx_kuosan_0092.tga"
+      ],
+      "fbx": "Meshes/SM_tx_100_s04_5_01.fbx",
+      "material_slots": [
+        "tx_tiaodai_1088",
+        "tx_tiaodai_1088",
+        "tx_tiaodai_1006",
+        "tx_tiaodai_1006",
+        "tx_tiaodai_1088",
+        "tx_dian_0069",
+        "tx_tuxing_1061",
+        "tx_kuosan_1027",
+        "tx_kuosan_1027"
+      ]
+    },
+    {
+      "name": "tx_100_s05_4_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s05_guishenyu/hit/tx_100_s05_4_01.x",
+      "file": "Raw/s05_guishenyu/hit/tx_100_s05_4_01.x",
+      "meshes": 0,
+      "bones": 2,
+      "actions": [],
+      "textures": [
+        "tx_dian_0069.tga",
+        "tx_kuosan_0071.tga",
+        "tx_kuosan_1040.tga",
+        "tx_shandian_1016.tga",
+        "tx_dian_1009.tga",
+        "tx_yanwu_4000.tga"
+      ]
+    },
+    {
+      "name": "tx_100_s04_5_02",
+      "source": "../data/magic/skill/100_bolilinmeng/s04_bafangzhen/keep/tx_100_s04_5_02.x",
+      "file": "Raw/s04_bafangzhen/keep/tx_100_s04_5_02.x",
+      "meshes": 4,
+      "bones": 2,
+      "actions": [],
+      "textures": [
+        "tx_tuxing_0037.TGA",
+        "tx_kuosan_0071.tga",
+        "tx_kuosan_1027.tga"
+      ],
+      "fbx": "Meshes/SM_tx_100_s04_5_02.fbx",
+      "material_slots": [
+        "tx_kuosan_0071",
+        "tx_kuosan_1027",
+        "tx_kuosan_1027",
+        "tx_tuxing_0037"
+      ]
+    },
+    {
+      "name": "tx_100_s05_5_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s05_guishenyu/keep/tx_100_s05_5_01.x",
+      "file": "Raw/s05_guishenyu/keep/tx_100_s05_5_01.x",
+      "meshes": 1,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_dian_0069.tga",
+        "tx_kuosan_1027.tga",
+        "tx_kuosan_4000.TGA",
+        "tx_kuosan_1034.tga",
+        "tx_yanwu_0080.tga"
+      ],
+      "fbx": "Meshes/SM_tx_100_s05_5_01.fbx",
+      "material_slots": [
+        "tx_dian_0069"
+      ]
+    },
+    {
+      "name": "tx_100_s05_3_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s05_guishenyu/trace/tx_100_s05_3_01.x",
+      "file": "Raw/s05_guishenyu/trace/tx_100_s05_3_01.x",
+      "meshes": 2,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_tuxing_0037.TGA",
+        "tx_dian_0076.tga",
+        "tx_tiaodai_0149.TGA",
+        "tx_xulie_1049.TGA"
+      ],
+      "fbx": "Meshes/SM_tx_100_s05_3_01.fbx",
+      "material_slots": [
+        "tx_dian_0076",
+        "tx_tuxing_0037"
+      ]
+    },
+    {
+      "name": "tx_100_s06_4_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s06_menxiangfengyin/hit/tx_100_s06_4_01.x",
+      "file": "Raw/s06_menxiangfengyin/hit/tx_100_s06_4_01.x",
+      "meshes": 0,
+      "bones": 2,
+      "actions": [],
+      "textures": [
+        "tx_xulie_0005.dds",
+        "tx_kuosan_0030.tga",
+        "tx_dian_0047.tga",
+        "tx_xulie_0009.tga",
+        "tx_dian_0047.tga",
+        "tx_xulie_0034.tga"
+      ]
+    },
+    {
+      "name": "tx_100_s06_1_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s06_menxiangfengyin/song/tx_100_s06_1_01.x",
+      "file": "Raw/s06_menxiangfengyin/song/tx_100_s06_1_01.x",
+      "meshes": 13,
+      "bones": 7,
+      "actions": [],
+      "textures": [
+        "tx_dian_0069.tga",
+        "tx_tuxing_0037.TGA",
+        "tx_tiaodai_0149.TGA"
+      ],
+      "fbx": "Meshes/SM_tx_100_s06_1_01.fbx",
+      "material_slots": [
+        "tx_tuxing_0037",
+        "tx_tuxing_0037",
+        "tx_tuxing_0037",
+        "tx_tuxing_0037",
+        "tx_tuxing_0037",
+        "tx_tuxing_0037",
+        "tx_dian_0069",
+        "tx_dian_0069",
+        "tx_dian_0069",
+        "tx_dian_0069",
+        "tx_dian_0069",
+        "tx_dian_0069",
+        "tx_dian_0069"
+      ]
+    },
+    {
+      "name": "tx_100_s06_3_01",
+      "source": "../data/magic/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_01.x",
+      "file": "Raw/s06_menxiangfengyin/trace/tx_100_s06_3_01.x",
+      "meshes": 2,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_xulie_1047.TGA",
+        "tx_dian_0069.tga",
+        "tx_tuxing_0037.TGA"
+      ],
+      "fbx": "Meshes/SM_tx_100_s06_3_01.fbx",
+      "material_slots": [
+        "tx_dian_0069",
+        "tx_tuxing_0037"
+      ]
+    },
+    {
+      "name": "tx_100_s06_3_02",
+      "source": "../data/magic/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_02.x",
+      "file": "Raw/s06_menxiangfengyin/trace/tx_100_s06_3_02.x",
+      "meshes": 2,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_xulie_1047.TGA",
+        "tx_dian_0069.tga",
+        "tx_tuxing_0037.TGA"
+      ],
+      "fbx": "Meshes/SM_tx_100_s06_3_02.fbx",
+      "material_slots": [
+        "tx_dian_0069",
+        "tx_tuxing_0037"
+      ]
+    },
+    {
+      "name": "tx_100_s06_3_03",
+      "source": "../data/magic/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_03.x",
+      "file": "Raw/s06_menxiangfengyin/trace/tx_100_s06_3_03.x",
+      "meshes": 2,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_xulie_1047.TGA",
+        "tx_dian_0069.tga",
+        "tx_tuxing_0037.TGA"
+      ],
+      "fbx": "Meshes/SM_tx_100_s06_3_03.fbx",
+      "material_slots": [
+        "tx_dian_0069",
+        "tx_tuxing_0037"
+      ]
+    },
+    {
+      "name": "tx_100_s06_3_04",
+      "source": "../data/magic/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_04.x",
+      "file": "Raw/s06_menxiangfengyin/trace/tx_100_s06_3_04.x",
+      "meshes": 2,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_dian_0069.tga",
+        "tx_tuxing_0037.TGA",
+        "tx_xulie_1047.TGA"
+      ],
+      "fbx": "Meshes/SM_tx_100_s06_3_04.fbx",
+      "material_slots": [
+        "tx_dian_0069",
+        "tx_tuxing_0037"
+      ]
+    },
+    {
+      "name": "tx_100_s06_3_05",
+      "source": "../data/magic/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_05.x",
+      "file": "Raw/s06_menxiangfengyin/trace/tx_100_s06_3_05.x",
+      "meshes": 2,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_xulie_1047.TGA",
+        "tx_tuxing_0037.TGA",
+        "tx_dian_0069.tga"
+      ],
+      "fbx": "Meshes/SM_tx_100_s06_3_05.fbx",
+      "material_slots": [
+        "tx_dian_0069",
+        "tx_tuxing_0037"
+      ]
+    },
+    {
+      "name": "tx_100_s06_3_06",
+      "source": "../data/magic/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_06.x",
+      "file": "Raw/s06_menxiangfengyin/trace/tx_100_s06_3_06.x",
+      "meshes": 2,
+      "bones": 1,
+      "actions": [],
+      "textures": [
+        "tx_xulie_1047.TGA",
+        "tx_dian_0069.tga",
+        "tx_tuxing_0037.TGA"
+      ],
+      "fbx": "Meshes/SM_tx_100_s06_3_06.fbx",
+      "material_slots": [
+        "tx_dian_0069",
+        "tx_tuxing_0037"
+      ]
+    }
+  ],
+  "textures": {
+    "tx_shandian_4007": {
+      "file": "Textures/tx_shandian_4007.png",
+      "source": "..\\data\\magic\\textures\\shandian\\tx_shandian_4007.dds",
+      "size": [
+        512,
+        128
+      ]
+    },
+    "tx_dian_0069": {
+      "file": "Textures/tx_dian_0069.png",
+      "source": "..\\data\\magic\\textures\\dian\\tx_dian_0069.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "tx_shandian_3000": {
+      "file": "Textures/tx_shandian_3000.png",
+      "source": "..\\data\\magic\\textures\\shandian\\tx_shandian_3000.dds",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "tx_xulie_0005": {
+      "file": "Textures/tx_xulie_0005.png",
+      "source": "..\\data\\magic\\textures\\tuxing\\tx_xulie_0005.dds",
+      "size": [
+        64,
+        32
+      ]
+    },
+    "tx_kuosan_0030": {
+      "file": "Textures/tx_kuosan_0030.png",
+      "source": "..\\data\\magic\\textures\\kuosan\\tx_kuosan_0030.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "tx_dian_0047": {
+      "file": "Textures/tx_dian_0047.png",
+      "source": "..\\data\\magic\\textures\\dian\\tx_dian_0047.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "tx_xulie_0009": {
+      "file": "Textures/tx_xulie_0009.png",
+      "source": "..\\data\\magic\\textures\\xulie\\tx_xulie_0009.dds",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "tx_xulie_0034": {
+      "file": "Textures/tx_xulie_0034.png",
+      "source": "..\\data\\magic\\textures\\xulie\\tx_xulie_0034.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_tuxing_1254": {
+      "file": "Textures/tx_tuxing_1254.png",
+      "source": "..\\data\\magic\\textures\\tuxing\\tx_tuxing_1254.dds",
+      "size": [
+        128,
+        64
+      ]
+    },
+    "tx_tuxing_1253": {
+      "file": "Textures/tx_tuxing_1253.png",
+      "source": "..\\data\\magic\\textures\\tuxing\\tx_tuxing_1253.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_tiaodai_0149": {
+      "file": "Textures/tx_tiaodai_0149.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_0149.dds",
+      "size": [
+        256,
+        128
+      ]
+    },
+    "tx_xingguang_1013": {
+      "file": "Textures/tx_xingguang_1013.png",
+      "source": "..\\data\\magic\\textures\\xingguang\\tx_xingguang_1013.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "tx_tuxing_1061": {
+      "file": "Textures/tx_tuxing_1061.png",
+      "source": "..\\data\\magic\\textures\\tuxing\\tx_tuxing_1061.dds",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "tx_kuosan_1027": {
+      "file": "Textures/tx_kuosan_1027.png",
+      "source": "..\\data\\magic\\textures\\kuosan\\tx_kuosan_1027.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_tiaodai_1006": {
+      "file": "Textures/tx_tiaodai_1006.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_1006.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "tx_tiaodai_1088": {
+      "file": "Textures/tx_tiaodai_1088.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_1088.dds",
+      "size": [
+        32,
+        64
+      ]
+    },
+    "tx_tiaodai_0130": {
+      "file": "Textures/tx_tiaodai_0130.png",
+      "source": "..\\data\\magic\\textures\\tiaodai\\tx_tiaodai_0130.dds",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "tx_kuosan_1022": {
+      "file": "Textures/tx_kuosan_1022.png",
+      "source": "..\\data\\magic\\textures\\kuosan\\tx_kuosan_1022.dds",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "tx_kuosan_0071": {
+      "file": "Textures/tx_kuosan_0071.png",
+      "source": "..\\data\\magic\\textures\\kuosan\\tx_kuosan_0071.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "tx_xuanzhuan_1015": {
+      "file": "Textures/tx_xuanzhuan_1015.png",
+      "source": "..\\data\\magic\\textures\\xuanzhuan\\tx_xuanzhuan_1015.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_kuosan_0092": {
+      "file": "Textures/tx_kuosan_0092.png",
+      "source": "..\\data\\magic\\textures\\kuosan\\tx_kuosan_0092.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_kuosan_1040": {
+      "file": "Textures/tx_kuosan_1040.png",
+      "source": "..\\data\\magic\\textures\\kuosan\\tx_kuosan_1040.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_shandian_1016": {
+      "file": "Textures/tx_shandian_1016.png",
+      "source": "..\\data\\magic\\textures\\shandian\\tx_shandian_1016.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "tx_dian_1009": {
+      "file": "Textures/tx_dian_1009.png",
+      "source": "..\\data\\magic\\textures\\dian\\tx_dian_1009.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "tx_yanwu_4000": {
+      "file": "Textures/tx_yanwu_4000.png",
+      "source": "..\\data\\magic\\textures\\yanwu\\tx_yanwu_4000.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_tuxing_0037": {
+      "file": "Textures/tx_tuxing_0037.png",
+      "source": "..\\data\\magic\\textures\\tuxing\\tx_tuxing_0037.dds",
+      "size": [
+        64,
+        64
+      ]
+    },
+    "tx_kuosan_4000": {
+      "file": "Textures/tx_kuosan_4000.png",
+      "source": "..\\data\\magic\\textures\\kuosan\\tx_kuosan_4000.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_kuosan_1034": {
+      "file": "Textures/tx_kuosan_1034.png",
+      "source": "..\\data\\magic\\textures\\kuosan\\tx_kuosan_1034.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_yanwu_0080": {
+      "file": "Textures/tx_yanwu_0080.png",
+      "source": "..\\data\\magic\\textures\\yanwu\\tx_yanwu_0080.dds",
+      "size": [
+        256,
+        256
+      ]
+    },
+    "tx_dian_0076": {
+      "file": "Textures/tx_dian_0076.png",
+      "source": "..\\data\\magic\\textures\\dian\\tx_dian_0076.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "tx_xulie_1049": {
+      "file": "Textures/tx_xulie_1049.png",
+      "source": "..\\data\\magic\\textures\\xulie\\tx_xulie_1049.dds",
+      "size": [
+        512,
+        512
+      ]
+    },
+    "tx_xulie_1047": {
+      "file": "Textures/tx_xulie_1047.png",
+      "source": "..\\data\\magic\\textures\\xulie\\tx_xulie_1047.dds",
+      "size": [
+        1024,
+        512
+      ]
+    }
+  },
+  "source_configs": {
+    "../data/audio/hero/100.bank": "SourceConfig/audio/hero/100.bank",
+    "../data/effect/skill/100_bolilinmeng/s01_putonggongji/trace/tx_100_s01_3_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s01_putonggongji/trace/tx_100_s01_3_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s01_putonggongji/trace/tx_100_s01_3_02.ini": "SourceConfig/effect/skill/100_bolilinmeng/s01_putonggongji/trace/tx_100_s01_3_02.ini",
+    "../data/effect/skill/100_bolilinmeng/s04_bafangzhen/keep/tx_100_s04_5_02.ini": "SourceConfig/effect/skill/100_bolilinmeng/s04_bafangzhen/keep/tx_100_s04_5_02.ini",
+    "../data/effect/skill/100_bolilinmeng/s05_guishenyu/keep/tx_100_s05_5_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s05_guishenyu/keep/tx_100_s05_5_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s06_menxiangfengyin/keep/tx_100_s06_5_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s06_menxiangfengyin/keep/tx_100_s06_5_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_02.ini": "SourceConfig/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_02.ini",
+    "../data/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_03.ini": "SourceConfig/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_03.ini",
+    "../data/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_04.ini": "SourceConfig/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_04.ini",
+    "../data/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_05.ini": "SourceConfig/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_05.ini",
+    "../data/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_06.ini": "SourceConfig/effect/skill/100_bolilinmeng/s06_menxiangfengyin/trace/tx_100_s06_3_06.ini",
+    "../data/effect/skill/100_bolilinmeng/s01_putonggongji/fire/tx_100_s01_2_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s01_putonggongji/fire/tx_100_s01_2_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s01_putonggongji/fire/tx_100_s01_2_02.ini": "SourceConfig/effect/skill/100_bolilinmeng/s01_putonggongji/fire/tx_100_s01_2_02.ini",
+    "../data/effect/skill/100_bolilinmeng/s01_putonggongji/hit/tx_100_s01_4_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s01_putonggongji/hit/tx_100_s01_4_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s01_putonggongji/hit/tx_100_s01_4_02.ini": "SourceConfig/effect/skill/100_bolilinmeng/s01_putonggongji/hit/tx_100_s01_4_02.ini",
+    "../data/effect/skill/100_bolilinmeng/s03_yaoguai/fire/tx_100_s03_2_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s03_yaoguai/fire/tx_100_s03_2_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s03_yaoguai/hit/tx_100_s03_4_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s03_yaoguai/hit/tx_100_s03_4_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s04_bafangzhen/fire/tx_100_s01_2_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s04_bafangzhen/fire/tx_100_s01_2_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s04_bafangzhen/fire/tx_100_s01_2_02.ini": "SourceConfig/effect/skill/100_bolilinmeng/s04_bafangzhen/fire/tx_100_s01_2_02.ini",
+    "../data/effect/skill/100_bolilinmeng/s04_bafangzhen/keep/tx_100_s04_5_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s04_bafangzhen/keep/tx_100_s04_5_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s05_guishenyu/fire/tx_100_s05_2_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s05_guishenyu/fire/tx_100_s05_2_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s05_guishenyu/hit/tx_100_s05_4_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s05_guishenyu/hit/tx_100_s05_4_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s06_menxiangfengyin/hit/tx_100_s06_4_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s06_menxiangfengyin/hit/tx_100_s06_4_01.ini",
+    "../data/effect/skill/100_bolilinmeng/s06_menxiangfengyin/song/tx_100_s06_1_01.ini": "SourceConfig/effect/skill/100_bolilinmeng/s06_menxiangfengyin/song/tx_100_s06_1_01.ini"
+  },
+  "ui": {
+    "half_0100": {
+      "file": "UI/half_0100.png",
+      "source": "../ui/head/half/half_0100.bmp",
+      "size": [
+        94,
+        48
+      ]
+    },
+    "chara_0100": {
+      "file": "UI/chara_0100.png",
+      "source": "../ui/head/role/chara_0100.dds",
+      "size": [
+        128,
+        128
+      ]
+    },
+    "sm_0100": {
+      "file": "UI/sm_0100.png",
+      "source": "../ui/head/small/sm_0100.bmp",
+      "size": [
+        32,
+        32
+      ]
+    },
+    "hero_100": {
+      "file": "UI/hero_100.png",
+      "source": "../ui/hero/100.bmp",
+      "size": [
+        1280,
+        800
+      ]
+    },
+    "super_100": {
+      "file": "UI/super_100.png",
+      "source": "../ui/icon/supericon/100.png",
+      "size": [
+        64,
+        64
+      ]
+    }
+  },
+  "missing_textures": []
+}
